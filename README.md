@@ -8,7 +8,7 @@
 
 <br><br>
 
-<a href="https://github.com/HossamTohamy1">
+<a href="https://github.com/Nour7Tohamy">
 <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/hossam-tohamy-a4763a350/">

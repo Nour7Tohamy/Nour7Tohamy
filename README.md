@@ -34,7 +34,7 @@
 
 # 👨‍💻 ABOUT ME
 
-### I'm **Hossam Tohamy** — a Back-End .NET Developer & Computer Science Student.
+### I'm **Nour Tohamy** — a Back-End .NET Developer & Computer Science Student.
 
 **I build secure APIs, scalable backend systems, and real-time applications.**
 

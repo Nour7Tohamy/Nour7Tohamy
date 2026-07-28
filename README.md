@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080014,25:512BD4,55:7C3AED,80:00BFFF,100:00E5FF&height=240&section=header&text=HOSSAM%20TOHAMY&fontSize=58&fontColor=FFFFFF&fontAlignY=35&desc=BACK-END%20.NET%20DEVELOPER&descAlignY=58&descSize=20&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080014,25:512BD4,55:7C3AED,80:00BFFF,100:00E5FF&height=240&section=header&text=NOUR%20TOHAMY&fontSize=58&fontColor=FFFFFF&fontAlignY=35&desc=BACK-END%20.NET%20DEVELOPER&descAlignY=58&descSize=20&animation=twinkling" width="100%"/>
 
 <br>
 
@@ -11,7 +11,7 @@
 <a href="https://github.com/Nour7Tohamy">
 <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/hossam-tohamy-a4763a350/">
+<a href="https://www.linkedin.com/in/Nour-Tohamy-a4763a350/">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://discord.gg/1257316206638010408">

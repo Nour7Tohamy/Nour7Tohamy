@@ -127,10 +127,6 @@
 
 <img src="https://skillicons.dev/icons?i=react,angular,ts,js,laravel,php,nodejs,python,fastapi,flutter,dart&theme=dark"/>
 
-<br>
-
-`React` · `Angular` · `TypeScript` · `JavaScript` · `Laravel` · `Node.js` · `Python` · `FastAPI` · `Flutter`
-
 <br><br>
 
 ### TOOLS

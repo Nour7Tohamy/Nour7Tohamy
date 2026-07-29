@@ -122,13 +122,6 @@
 `SQL Server` · `PostgreSQL` · `MongoDB` · `Redis`
 
 <br><br>
-
-### FRONTEND & OTHER STACKS
-
-<img src="https://skillicons.dev/icons?i=react,angular,ts,js,laravel,php,nodejs,python,fastapi,flutter,dart&theme=dark"/>
-
-<br><br>
-
 ### TOOLS
 
 <img src="https://skillicons.dev/icons?i=docker,git,github,postman,figma&theme=dark"/>

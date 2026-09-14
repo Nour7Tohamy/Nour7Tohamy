@@ -1,164 +1,70 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080014,25:512BD4,55:7C3AED,80:00BFFF,100:00E5FF&height=250&section=header&text=NOUR%20TOHAMY&fontSize=65&fontColor=FFFFFF&fontAlignY=35&desc=BACK-END%20.NET%20DEVELOPER&descAlignY=55&descSize=23&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080014,25:512BD4,55:7C3AED,80:00BFFF,100:00E5FF&height=220&section=header&text=NOUR%20TOHAMY&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=BACK-END%20.NET%20DEVELOPER&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=600&color=00E5FF&center=true&vCenter=true&width=800&lines=%F0%9F%92%BB+C%23+%2F+.NET+CORE;%F0%9F%8F%97%EF%B8%8F+CLEAN+ARCHITECTURE+%2F+CQRS;%F0%9F%94%90+JWT+%2F+OAUTH+%2F+2FA+SECURITY;%F0%9F%9A%80+REAL-TIME+SIGNALR+%2F+REDIS;BUILDING+SYSTEMS+THAT+SCALE." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=600&color=00E5FF&center=true&vCenter=true&width=600&lines=C%23+%2F+.NET+Core;Clean+Architecture+%2F+CQRS;JWT+%2F+OAuth+%2F+2FA;SignalR+%2F+Redis" alt="Typing SVG"/>
 
-<br/>
-
-<a href="https://github.com/Nour7Tohamy" target="_blank">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/Nour-Tohamy-a4763a350/" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://discord.gg/1257316206638010408" target="_blank">
-  <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Nour7Tohamy&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge&prefix=%F0%9F%91%80%20" alt="Profile Views"/>
+<p>
+<a href="https://github.com/Nour7Tohamy" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/Nour-Tohamy-a4763a350/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 </div>
 
-<br/>
+## About Me
 
-## 🧑‍💻 About Me
-
-<div align="center">
-
-Backend .NET Developer focused on **Clean Architecture**, **CQRS**, and building APIs that stay reliable under real-world load — not just in demos.
+Backend .NET Developer focused on Clean Architecture, CQRS, and building APIs that stay reliable under real-world load.
 I care about systems that hold up under concurrency, scale predictably, and stay maintainable as they grow.
 
-<img src="https://img.shields.io/badge/FOCUS-BACKEND%20SYSTEMS-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/MINDSET-ARCHITECTURE%20FIRST-00BFFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/STATUS-CS%20STUDENT-7C3AED?style=for-the-badge"/>
+## Core Skills
 
-</div>
-
-<br/>
-
-## 🛠️ Core Skills
-
-<table align="center">
-<tr>
-<td align="center" width="25%"><b>Architecture</b></td>
-<td>Clean Architecture · CQRS · MediatR · Repository Pattern · SOLID</td>
-</tr>
-<tr>
-<td align="center"><b>Data</b></td>
-<td>SQL Server · PostgreSQL · MongoDB · Redis · EF Core</td>
-</tr>
-<tr>
-<td align="center"><b>Security</b></td>
-<td>JWT · OAuth 2.0 · Role-Based Authorization · OTP · 2FA</td>
-</tr>
-<tr>
-<td align="center"><b>Real-Time</b></td>
-<td>SignalR · WebSockets · Background Jobs (Hangfire) · Distributed Caching</td>
-</tr>
-</table>
+| Category | Stack |
+|---|---|
+| **Architecture** | Clean Architecture · CQRS · MediatR · Repository Pattern · SOLID |
+| **Data** | SQL Server · PostgreSQL · MongoDB · Redis · EF Core |
+| **Security** | JWT · OAuth 2.0 · Role-Based Authorization · OTP · 2FA |
+| **Real-Time** | SignalR · WebSockets · Hangfire · Distributed Caching |
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,redis,docker,mssql,postgres,mongodb,git,github,postman&theme=dark" width="85%"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,redis,docker,mssql,postgres,mongodb,git,github,postman&theme=dark" width="80%"/>
 
 </div>
 
-<br/>
+## What I Build
 
-## 🎯 How I Work
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/API%20DESIGN-512BD4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SCALABLE%20ARCHITECTURE-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SECURITY%20BY%20DESIGN-DC2626?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REAL--TIME%20SYSTEMS-00BFFF?style=for-the-badge"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/CLEAN%20CODE-0891B2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PERFORMANCE%20TUNING-334155?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TEST%20COVERAGE-B91C1C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CI%2FCD-B91C1C?style=for-the-badge"/>
-
-</div>
-
-<br/>
-
-## 🚀 What I Build
+🛒 E-Commerce APIs &nbsp;·&nbsp; 🏨 Reservation Systems &nbsp;·&nbsp; 💬 Real-Time Chat Platforms &nbsp;·&nbsp; 🔐 Identity & Auth Providers
 
 <div align="center">
-
-**🛒 E-Commerce APIs&nbsp; · &nbsp;🏨 Reservation Systems&nbsp; · &nbsp;💬 Real-Time Chat Platforms&nbsp; · &nbsp;🔐 Identity & Auth Providers**
-
-.NET is my core stack — I focus on backend systems where correctness under concurrency and long-term maintainability matter as much as shipping fast.
-
 <a href="https://github.com/Nour7Tohamy?tab=repositories">
-  <img src="https://img.shields.io/badge/→%20EXPLORE%20ALL%20REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Explore%20All%20Repositories-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </div>
 
-<br/>
+## Teaching & Mentoring
 
-## 🎓 Teaching & Mentoring
+- **eYouth Academy** — Mentor
+- **DECI** — Instructor
+
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/eYouth%20Academy-MENTOR-512BD4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DECI-INSTRUCTOR-00D4FF?style=for-the-badge"/>
-
-Learning → Building → Sharing with others along the way.
+<img src="https://github-readme-stats.vercel.app/api?username=Nour7Tohamy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nour7Tohamy&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%"/>
 
 </div>
 
-<br/>
-
-## 📊 GitHub Activity
+## GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nour7Tohamy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nour7Tohamy&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="48%"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Nour7Tohamy&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%2C%20Y&background=00000000" width="75%"/>
-
-<br/><br/>
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/Nour7Tohamy/Nour7Tohamy/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Nour7Tohamy&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
-
-<br/>
-
-## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Nour7Tohamy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,35:00BFFF,65:7C3AED,100:512BD4&height=120&section=footer"/>
 
 </div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=BUILD.%20BREAK.%20FIX.%20SHIP.%20REPEAT.&fontSize=28&fontColor=00E5FF&fontAlignY=50&animation=fadeIn"/>
-
-<br/>
-
-<a href="https://github.com/Nour7Tohamy">
-  <img src="https://img.shields.io/badge/⭐_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/Nour-Tohamy-a4763a350/">
-  <img src="https://img.shields.io/badge/🤝_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,35:00BFFF,65:7C3AED,100:512BD4&height=150&section=footer&animation=fadeIn" width="100%"/>

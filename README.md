@@ -2,21 +2,21 @@ from pathlib import Path
 
 readme = r'''<div align="center">
 
-<!-- HEADER TERMINAL WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,15:020617,35:0F172A,60:312E81,80:0891B2,100:22D3EE&height=320&section=header&text=NOUR%20TOHAMY&fontSize=86&fontColor=FFFFFF&fontAlignY=36&desc=%E2%9A%A1%20SENIOR%20BACKEND%20ENGINEER%20//%20DISTRIBUTED%20SYSTEMS%20%E2%9A%A1&descAlignY=60&descSize=20&descColor=67E8F9&animation=fadeIn"/>
+<!-- HEADER TERMINAL HUD WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,12:020617,30:0F172A,55:312E81,78:0891B2,100:22D3EE&height=340&section=header&text=NOUR%20TOHAMY&fontSize=90&fontColor=FFFFFF&fontAlignY=36&desc=%E2%9A%A1%20SENIOR%20DISTRIBUTED%20SYSTEMS%20%2F%2F%20.NET%20ENGINEER%20%E2%9A%A1&descAlignY=62&descSize=21&descColor=67E8F9&animation=fadeIn"/>
 
 <!-- LIVE TELEMETRY STATUS TYPING -->
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1200&pause=350&color=67E8F9&center=true&vCenter=true&width=1000&height=60&lines=%5BNOUR%2F%2FCORE%5D+BOOTING...;%5BBACKEND%5D+DISTRIBUTED+ENGINE+ONLINE;%5BTESTING%5D+ZERO-FAIL+SUITE+ONLINE;%5BPERFORMANCE%5D+TELEMETRY+OPTIMIZED;%5BSECURITY%5D+ZERO-TRUST+CORE+ACTIVE;%5BSYSTEM+STATUS%5D+HIGH-THROUGHPUT+READY" alt="NOUR CORE PROTOCOL"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&duration=1100&pause=300&color=67E8F9&center=true&vCenter=true&width=1000&height=60&lines=%5BCORE%2F%2FNOUR%5D+INITIALIZING+SYSTEMS...;%5BBACKEND%5D+HIGH-THROUGHPUT+ENGINE+ONLINE;%5BCONCURRENCY%5D+LOCK-FREE+PIPELINES+ACTIVE;%5BPERFORMANCE%5D+ZERO-LATENCY+TELEMETRY+OPTIMIZED;%5BSECURITY%5D+ZERO-TRUST+SECURITY+SHIELD+ENGAGED;%5BSYSTEM+STATUS%5D+READY+FOR+ENTERPRISE+LOAD" alt="NOUR CORE PROTOCOL"/>
 </a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=400&size=14&duration=2800&pause=900&color=A5F3FC&center=true&vCenter=true&width=850&height=35&lines=ARCHITECTING+BACKENDS+FOR+HIGH-CONCURRENCY+%26+FAULT-TOLERANCE;MEASURE.+BENCHMARK.+OPTIMIZE.+REPEAT." alt="Signal Philosophy"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=14&duration=2500&pause=800&color=A5F3FC&center=true&vCenter=true&width=900&height=35&lines=ARCHITECTING+BACKENDS+FOR+HIGH-CONCURRENCY+%26+FAULT-TOLERANCE;MEASURE.+BENCHMARK.+OPTIMIZE.+REPEAT." alt="Signal Philosophy"/>
 
 <br/><br/>
 
-<!-- NAVIGATION BADGES -->
+<!-- NAVIGATION HUD BADGES -->
 <p align="center">
   <a href="https://github.com/Nour7Tohamy" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=67E8F9&labelColor=020617" alt="GitHub"/>
@@ -29,7 +29,7 @@ readme = r'''<div align="center">
   </a>
 </p>
 
-<!-- SIGNAL VIEWS COUNTER -->
+<!-- TELEMETRY COUNTER -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nour7Tohamy&style=for-the-badge&color=0891B2&label=SIGNALS+PROCESSED" alt="Profile Views"/>
 </p>
@@ -44,9 +44,9 @@ readme = r'''<div align="center">
 
 <br/>
 
-# `NOUR // DIGITAL IDENTITY`
+# `NOUR // DIGITAL IDENTITY & ARCHITECTURE`
 
-### **Senior Backend Engineer Building High-Throughput, Distributed & Resilient .NET Architectures.**
+### **Senior Backend Software Engineer | Enterprise .NET & Distributed Systems Specialist**
 
 <br/>
 
@@ -56,7 +56,7 @@ readme = r'''<div align="center">
 
 <br/>
 
-## `01 / THE CORE SIGNAL`
+## `01 / CORE SYSTEM SIGNALS`
 
 <div align="center">
 
@@ -80,47 +80,73 @@ readme = r'''<div align="center">
 
 <div align="center">
 
-# `02 / TECHNOLOGY MATRIX`
+# `02 / TECHNOLOGY MATRIX & ECOSYSTEM`
 
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,redis,rabbitmq,docker,mssql,postgres,mongodb,git,github,postman,linux&perline=6&theme=dark" width="85%"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,redis,rabbitmq,docker,mssql,postgres,mongodb,git,github,postman,linux&perline=6&theme=dark" width="88%"/>
 </p>
 
 <br/>
 
-| Domain | Architectural Stack & Engineering Tools |
-| :--- | :--- |
-| 🏗️ **Core Runtime & APIs** | `C# 12`, `.NET 8 / 9`, `ASP.NET Core Web API`, `EF Core`, `Dapper`, `LINQ` |
-| 📐 **Architecture & Design** | `Clean Architecture`, `CQRS`, `Domain-Driven Design (DDD)`, `MediatR`, `SOLID` |
-| ⚡ **Performance & Caching** | `Redis (Distributed Cache & Pub/Sub)`, `Polly (Resiliency/Circuit Breaker)` |
-| 📡 **Async & Real-time** | `RabbitMQ`, `SignalR (WebSockets)`, `Hangfire`, `BackgroundServices` |
-| 🔐 **Security & Auth** | `OAuth 2.0`, `OpenID Connect`, `JWT`, `2FA`, `OTP`, `Rate Limiting & Throttling` |
-| 🧪 **Quality & Telemetry** | `xUnit`, `NUnit`, `Moq`, `FluentAssertions`, `WebApplicationFactory`, `k6 Load Testing`, `Serilog` |
+<table width="100%">
+  <thead>
+    <tr style="background-color: #020617; color: #67E8F9;">
+      <th align="left" width="28%">Domain</th>
+      <th align="left" width="72%">Architectural Stack & Engineering Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🏗️ <b>Core Runtime & APIs</b></td>
+      <td><code>C# 12</code>, <code>.NET 8 / 9</code>, <code>ASP.NET Core Web API</code>, <code>EF Core</code>, <code>Dapper</code>, <code>LINQ</code></td>
+    </tr>
+    <tr>
+      <td>📐 <b>Architecture & Design</b></td>
+      <td><code>Clean Architecture</code>, <code>CQRS</code>, <code>Domain-Driven Design (DDD)</code>, <code>MediatR</code>, <code>SOLID</code></td>
+    </tr>
+    <tr>
+      <td>⚡ <b>Performance & Caching</b></td>
+      <td><code>Redis (Distributed Cache & Pub/Sub)</code>, <code>Polly (Resiliency / Circuit Breakers)</code></td>
+    </tr>
+    <tr>
+      <td>📡 <b>Async & Real-time</b></td>
+      <td><code>RabbitMQ Message Queue</code>, <code>SignalR (WebSockets)</code>, <code>Hangfire</code>, <code>BackgroundServices</code></td>
+    </tr>
+    <tr>
+      <td>🔐 <b>Security & Auth</b></td>
+      <td><code>OAuth 2.0</code>, <code>OpenID Connect</code>, <code>JWT</code>, <code>2FA / OTP</code>, <code>Rate Limiting & Throttling</code></td>
+    </tr>
+    <tr>
+      <td>🧪 <b>Quality & Telemetry</b></td>
+      <td><code>xUnit</code>, <code>NUnit</code>, <code>Moq</code>, <code>FluentAssertions</code>, <code>WebApplicationFactory</code>, <code>k6 Load Testing</code>, <code>Serilog</code></td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
 <details>
-<summary><b>◉ EXPAND DEEP TELEMETRY SIGNALS</b></summary>
+<summary><b>◉ EXPAND DEEP TELEMETRY SIGNALS (TECHNICAL BREAKDOWN)</b></summary>
 
 <br/>
 
 <div align="center">
 
-### BACKEND CORE
+### ⚙️ BACKEND CORE
 `C#` · `ASP.NET Core` · `RESTful APIs` · `EF Core` · `Dapper` · `LINQ`
 
-### ARCHITECTURAL PATTERNS
+### 🏛️ ARCHITECTURAL PATTERNS
 `Clean Architecture` · `CQRS` · `MediatR` · `Event-Driven Architecture` · `Repository & Unit of Work`
 
-### QUALITY ASSURANCE
-`NUnit` · `xUnit` · `Moq` · `FluentAssertions` · `WebApplicationFactory` · `k6 Performance Testing`
+### 🧪 QUALITY ASSURANCE & TESTING
+`NUnit` · `xUnit` · `Moq` · `NSubstitute` · `FluentAssertions` · `WebApplicationFactory` · `k6 Performance Testing`
 
-### SECURITY PROTOCOLS
+### 🔒 SECURITY PROTOCOLS
 `ASP.NET Identity` · `JWT Bearer` · `OAuth 2.0` · `2FA / OTP` · `Custom Role AuthZ` · `Rate Limiting`
 
-### DISTRIBUTED SYSTEMS & PERFORMANCE
+### 🚀 DISTRIBUTED SYSTEMS & PERFORMANCE
 `SignalR` · `Redis Caching` · `RabbitMQ Message Bus` · `Latency Optimization` · `High-Throughput Queries`
 
 </div>
@@ -168,7 +194,7 @@ readme = r'''<div align="center">
 
 <br/>
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>⚡ BACKEND CORE ENGINE</h3>
@@ -199,14 +225,14 @@ readme = r'''<div align="center">
 
 <div align="center">
 
-# `05 / SYSTEM UNIVERSE (FLAGSHIP PROJECTS)`
+# `05 / SYSTEM UNIVERSE (FLAGSHIP ENTERPRISE PROJECTS)`
 
 <br/>
 
 </div>
 
 ### 🎟️ `DevPulse // HIGH THROUGHPUT TICKETING ENGINE`
-> **Architected for high concurrency, peak traffic handling, and zero race conditions during ticket booking.**
+> **Architected for extreme high concurrency, peak traffic handling, and zero race conditions during high-volume ticket sales.**
 
 ```gdb
-[ TRAFFIC INGRESS ] ➔ [ RATE LIMITER ] ➔ [ REDIS DISTRIBUTED CACHE ] ➔ [ RABBITMQ EVENT QUEUE ] ➔ [ SQL PERSISTENCE ]
+[ CLIENT TRAFFIC ] ➔ [ RATE LIMITER ] ➔ [ REDIS CACHE ] ➔ [ RABBITMQ MESSAGE QUEUE ] ➔ [ EVENT CONSUMER ] ➔ [ SQL SERVER DB ]

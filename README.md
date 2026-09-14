@@ -1,6 +1,4 @@
-from pathlib import Path
-
-readme = r'''<div align="center">
+<div align="center">
 
 <!-- HEADER ANIMATED BANNER WITH GOLD NEON GRADIENT -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=0f172a&custom_color_2=eab308&height=280&section=header&text=NOUR%20TOHAMY&fontSize=70&fontColor=fff&fontAlignY=38&desc=%E2%9A%A1%20Distributed%20Systems%20%7C%20.NET%20Backend%20Architect%20%E2%9A%A1&descAlignY=58&descSize=18&descColor=fef08a&animation=twinkling"/>
@@ -30,7 +28,6 @@ readme = r'''<div align="center">
 
 <br/>
 
-<!-- GOLD GRADIENT SEPARATOR -->
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <br/><br/>
@@ -41,11 +38,9 @@ readme = r'''<div align="center">
 
 <div align="center">
 
-<!-- CARDS DASHBOARD CONTAINER GRID -->
 <table border="0" width="100%" cellspacing="10" cellpadding="0">
   <tr>
     <td width="50%" align="center" valign="top">
-      <!-- DASHBOARD CARD 1: HTTP API PIPELINE -->
       <table border="1" style="border-color: #eab308; background-color: #0f172a; border-radius: 8px;" width="100%">
         <tr>
           <td align="center" style="padding: 18px;">
@@ -60,7 +55,6 @@ readme = r'''<div align="center">
       </table>
     </td>
     <td width="50%" align="center" valign="top">
-      <!-- DASHBOARD CARD 2: DISTRIBUTED STATE -->
       <table border="1" style="border-color: #eab308; background-color: #0f172a; border-radius: 8px;" width="100%">
         <tr>
           <td align="center" style="padding: 18px;">
@@ -77,7 +71,6 @@ readme = r'''<div align="center">
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <!-- DASHBOARD CARD 3: ASYNC STREAMING -->
       <table border="1" style="border-color: #eab308; background-color: #0f172a; border-radius: 8px;" width="100%">
         <tr>
           <td align="center" style="padding: 18px;">
@@ -92,7 +85,6 @@ readme = r'''<div align="center">
       </table>
     </td>
     <td width="50%" align="center" valign="top">
-      <!-- DASHBOARD CARD 4: RESILIENCE ENGINE -->
       <table border="1" style="border-color: #eab308; background-color: #0f172a; border-radius: 8px;" width="100%">
         <tr>
           <td align="center" style="padding: 18px;">
@@ -113,7 +105,6 @@ readme = r'''<div align="center">
 
 <br/>
 
-<!-- GOLD GRADIENT SEPARATOR -->
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <br/><br/>
@@ -124,7 +115,6 @@ readme = r'''<div align="center">
 
 <div align="center">
 
-<!-- TECH METRICS STAT CARD -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nour7Tohamy&layout=compact&theme=tokyo-night&hide_border=false&border_color=eab308&title_color=eab308&text_color=ffffff&bg_color=0f172a" width="75%" alt="Tech Languages Matrix Card"/>
 
 <br/><br/>
@@ -160,7 +150,6 @@ readme = r'''<div align="center">
 
 <br/>
 
-<!-- GOLD GRADIENT SEPARATOR -->
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <br/><br/>
@@ -171,29 +160,25 @@ readme = r'''<div align="center">
 
 <div align="center">
 
-<!-- STREAK CARD EXACT MATCH FROM IMAGE -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nour7Tohamy&theme=dark&background=0F172A&border=EAB308&stroke=EAB308&ring=EAB308&fire=EAB308&currStreakLabel=EAB308&hide_border=false" width="85%" alt="Streak Card Matrix"/>
 
 <br/><br/>
 
-<!-- GITHUB OVERALL PROFILE STATS CARD -->
 <img src="https://github-readme-stats.vercel.app/api?username=Nour7Tohamy&show_icons=true&theme=tokyo-night&hide_border=false&border_color=eab308&count_private=true&title_color=eab308&icon_color=eab308" width="85%" alt="GitHub Profile Metrics Card"/>
 
 <br/><br/>
 
-<!-- ANIMATED ACTIVITY GRAPH CARDS -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nour7Tohamy&theme=tokyo-night&area=true&hide_border=true&color=eab308" width="98%" alt="Live Activity Graph"/>
 
 </div>
 
 <br/>
 
-<!-- GOLD GRADIENT SEPARATOR -->
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <br/><br/>
 
-## ⚙️ 04 / FEATURED ARCHITECTURAL SYSTEMS CARDS
+## ⚙️ 04 / FEATURED ARCHITECTURAL SYSTEMS
 
 <br/>
 
@@ -204,7 +189,7 @@ readme = r'''<div align="center">
   <tr>
     <td style="padding: 20px;">
       <h2 align="center" style="color: #eab308; margin-top: 0;">🎟️ DevPulse // High-Throughput Event Engine</h2>
-      <p align="center" style="color: #94a3b8;">Distributed Monolithic Architecture to absorb high concurrency traffic spikes with zero race conditions.</p>
+      <p align="center" style="color: #94a3b8;">Distributed monolithic architecture built to absorb high-concurrency traffic spikes with zero race conditions.</p>
 
 ```mermaid
 graph TD
@@ -218,8 +203,9 @@ graph TD
     A[🚀 Client Traffic Spike] --> B[🛡️ Rate Throttling / Polly]
     B --> C{⚡ Distributed RedLock Mutex}
     C -->|Lock Acquired| D[🔄 RabbitMQ Producer]
-    C -->|Lock Contented| E[⚠️ Fallback Buffer Engine]
+    C -->|Lock Contended| E[⚠️ Fallback Buffer Engine]
     D --> F[⚙️ Competing Worker Consumer]
+    E --> F
     F --> G[(💾 SQL Server Database Isolation)]
 
     class A,E client;
@@ -228,3 +214,84 @@ graph TD
     class D queue;
     class F worker;
     class G db;
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Throughput-10k_req%2Fs-eab308?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Race_Conditions-0-10b981?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Message_Loss-0%25-10b981?style=flat-square"/>
+</p>
+
+  </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- SYSTEM 2 CARD: NOTIFYHUB REALTIME SERVICE -->
+<table border="1" style="border-color: #eab308; background-color: #0f172a; border-radius: 8px;" width="100%">
+  <tr>
+    <td style="padding: 20px;">
+      <h2 align="center" style="color: #eab308; margin-top: 0;">📡 NotifyHub // Real-Time Push Notification Service</h2>
+      <p align="center" style="color: #94a3b8;">SignalR-backed fan-out layer with Redis backplane for horizontally scaled, multi-node WebSocket delivery.</p>
+
+```mermaid
+graph TD
+    classDef client fill:#0f172a,stroke:#eab308,stroke-width:2px,color:#fff;
+    classDef hub fill:#1e1b4b,stroke:#8b5cf6,stroke-width:2px,color:#fff;
+    classDef backplane fill:#0284c7,stroke:#38bdf8,stroke-width:2px,color:#fff;
+    classDef node fill:#064e3b,stroke:#10b981,stroke-width:2px,color:#fff;
+    classDef db fill:#0f172a,stroke:#eab308,stroke-width:3px,color:#fff;
+
+    U[👤 User Action] --> S[🌐 SignalR Hub Node 1]
+    U -.-> S2[🌐 SignalR Hub Node 2]
+    S --> R{🔁 Redis Backplane}
+    S2 --> R
+    R --> N1[📲 Connected Client A]
+    R --> N2[📲 Connected Client B]
+    S --> P[(💾 Notification Audit Log)]
+
+    class U client;
+    class S,S2 hub;
+    class R backplane;
+    class N1,N2 node;
+    class P db;
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Connected_Clients-50k%2B-eab308?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Delivery_Latency-%3C_100ms-10b981?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Nodes-Horizontally_Scaled-10b981?style=flat-square"/>
+</p>
+
+  </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<br/><br/>
+
+## 📬 05 / GET IN TOUCH
+
+<br/>
+
+<div align="center">
+<p style="color: #94a3b8;">Open to backend architecture roles, distributed-systems collaborations, and performance-engineering conversations.</p>
+
+<p align="center">
+  <a href="https://github.com/Nour7Tohamy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=eab308"/></a>
+  <a href="https://www.linkedin.com/in/Nour-Tohamy-a4763a350/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:nour.tohamy.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=eab308&custom_color_2=0f172a&height=150&section=footer"/>
+
+</div>

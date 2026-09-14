@@ -41,71 +41,21 @@ readme = r'''<div align="center">
 
 <div align="center">
 
-<!-- METRICS CARDS GRID (GOLD THEME) -->
-<table width="100%">
-  <tr>
-    <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/P99_API_LATENCY-<5ms_Target_--_7.2ms_Actual-eab308?style=for-the-badge&logo=speedtest&logoColor=black"/>
-    </td>
-    <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/REDIS_MUTEX_LOCK-Sub--ms_Latency-eab308?style=for-the-badge&logo=redis&logoColor=black"/>
-    </td>
-    <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/MESSAGE_LOSS-0%25_at_10k_req/s-eab308?style=for-the-badge&logo=rabbitmq&logoColor=black"/>
-    </td>
-  </tr>
-</table>
+<!-- HIGHLIGHT METRICS HERO CARDS -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀_HTTP_API_Pipeline-Target:_<5ms_P99_|_Actual:_7.2ms_P99-eab308?style=for-the-badge&logo=fastapi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/⚡_Distributed_State-Target:_Sub--ms_|_Actual:_1.1ms_L2_Hit-eab308?style=for-the-badge&logo=redis&logoColor=black"/>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/🔄_Async_Streaming-Target:_0%25_Loss_|_Actual:_0%25_Loss_(10k/s)-eab308?style=for-the-badge&logo=rabbitmq&logoColor=black"/>
+  <img src="https://img.shields.io/badge/🛡️_Resilience_Engine-Target:_99.999%25_SLA_|_Actual:_99.94%25_Avail-eab308?style=for-the-badge&logo=polly&logoColor=black"/>
+</p>
 
-<table width="100%">
-  <thead>
-    <tr style="background: linear-gradient(90deg, #0f172a, #eab308); color: #000;">
-      <th align="left" width="25%">⚡ Subsystem Core</th>
-      <th align="left" width="45%">🛠️ Execution Pipeline Strategy</th>
-      <th align="center" width="15%">🎯 Target SLA</th>
-      <th align="center" width="15%">🔥 Actual (k6 Load)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>🚀 HTTP API Pipeline</b></td>
-      <td>ASP.NET Core Kestrel + Non-blocking I/O + Minimal APIs</td>
-      <td align="center"><code>&lt; 5ms P99</code></td>
-      <td align="center"><code>7.2ms P99</code></td>
-    </tr>
-    <tr>
-      <td><b>⚡ Distributed State</b></td>
-      <td>Redis L2 Cache + RedLock Distributed Mutex</td>
-      <td align="center"><code>Sub-ms</code></td>
-      <td align="center"><code>1.1ms (L2 Hit)</code></td>
-    </tr>
-    <tr>
-      <td><b>🔄 Async Streaming</b></td>
-      <td>RabbitMQ Event Bus + Competing Consumers</td>
-      <td align="center"><code>0% Loss</code></td>
-      <td align="center"><code>0% Loss (10k/s)</code></td>
-    </tr>
-    <tr>
-      <td><b>🛡️ Resilience Engine</b></td>
-      <td>Polly Policies (Circuit Breaker, Fallbacks, Retry)</td>
-      <td align="center"><code>99.999% SLA</code></td>
-      <td align="center"><code>99.94% Avail</code></td>
-    </tr>
-    <tr>
-      <td><b>🔐 Identity Core</b></td>
-      <td>OAuth 2.0 / JWT + Dynamic Policy-Based AuthZ</td>
-      <td align="center"><code>Zero Trust</code></td>
-      <td align="center"><code>Strict Isolation</code></td>
-    </tr>
-    <tr>
-      <td><b>🧪 Integration Test</b></td>
-      <td>xUnit + WebApplicationFactory + k6 Benchmarks</td>
-      <td align="center"><code>100% CI/CD</code></td>
-      <td align="center"><code>96% Coverage</code></td>
-    </tr>
-  </tbody>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/🔐_Identity_Core-Target:_Zero_Trust_|_Actual:_Strict_Isolation-eab308?style=for-the-badge&logo=jsonwebtokens&logoColor=black"/>
+  <img src="https://img.shields.io/badge/🧪_Integration_Tests-Target:_100%25_CI/CD_|_Actual:_96%25_Coverage-eab308?style=for-the-badge&logo=k6&logoColor=black"/>
+</p>
 
 </div>
 
@@ -200,18 +150,20 @@ readme = r'''<div align="center">
 > **Distributed Monolithic Engine built to absorb extreme traffic spikes during ticketing events with zero concurrency race conditions.**
 
 ```mermaid
-flowchart LR
-    A[🚀 Client Burst Traffic] --> B[🛡️ Rate Throttling / Polly]
-    B --> C{⚡ Distributed RedLock}
-    C -->|Lock Acquired| D[🔄 RabbitMQ Producer]
-    C -->|Lock Contented| E[⚠️ Fallback Queue / Throttle]
-    D --> F[⚙️ Competing Worker Consumer]
-    F --> G[(💾 SQL Server DB Isolation)]
+graph TD
+    %% Nodes Style Configuration
+    classDef client fill:#0f172a,stroke:#eab308,stroke-width:2px,color:#fff;
+    classDef gateway fill:#1e1b4b,stroke:#8b5cf6,stroke-width:2px,color:#fff;
+    classDef lock fill:#451a03,stroke:#f97316,stroke-width:3px,color:#fff;
+    classDef queue fill:#0284c7,stroke:#38bdf8,stroke-width:2px,color:#fff;
+    classDef worker fill:#064e3b,stroke:#10b981,stroke-width:2px,color:#fff;
+    classDef db fill:#0f172a,stroke:#eab308,stroke-width:3px,color:#fff;
+
+    A[🚀 Client Burst Traffic Request] ::: client --> B[🛡️ Polly Circuit Breaker & Rate Throttler] ::: gateway
+    B --> C{⚡ Redis RedLock Mutex} ::: lock
     
-    style A fill:#0f172a,stroke:#eab308,stroke-width:2px,color:#fff
-    style B fill:#0f172a,stroke:#eab308,stroke-width:2px,color:#fff
-    style C fill:#1e1b4b,stroke:#8b5cf6,stroke-width:2px,color:#fff
-    style D fill:#0f172a,stroke:#0284c7,stroke-width:2px,color:#fff
-    style E fill:#450a0a,stroke:#ef4444,stroke-width:2px,color:#fff
-    style F fill:#0f172a,stroke:#10b981,stroke-width:2px,color:#fff
-    style G fill:#0f172a,stroke:#eab308,stroke-width:2px
+    C -->|Lock Acquired| D[🔄 RabbitMQ Distributed Event Queue] ::: queue
+    C -->|Lock Contented / Retry| E[⚠️ Fallback Buffer / Throttle Engine] ::: client
+    
+    D --> F[⚙️ Competing Worker Service Pool] ::: worker
+    F --> G[(💾 SQL Server Database Isolation Transaction)] ::: db

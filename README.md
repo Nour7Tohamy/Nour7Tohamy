@@ -58,7 +58,7 @@ Focused on optimizing throughput, eliminating DB latency bottlenecks, designing 
 | Category | Tech Stack & Architectural Patterns |
 | :--- | :--- |
 | 🏗️ **Architecture** | **Clean Architecture**, **CQRS**, **DDD**, **Event-Driven Architecture**, Repository & Unit of Work, SOLID Principles |
-| ⚡ **Frameworks & Runtimes** | **C#**, **.NET 8 / 9**, ASP.NET Core Web API, EF Core, LINQ, Dapper, MediatR |
+| ⚡ **Frameworks & Runtimes** | **C#**, **.NET 8 / 9**, ASP.NET Core Web API, EF Core, LINQ, Dapper, MediatR, Mapster |
 | 💾 **Database & Caching** | SQL Server, PostgreSQL, MongoDB, **Redis (Distributed Caching & Pub/Sub)** |
 | 🔐 **Security & Identity** | OAuth 2.0, OpenID Connect, JWT, Dynamic AuthZ, OTP, 2FA, Rate Limiting & Throttling |
 | 📡 **Real-Time & Messaging** | **SignalR (WebSockets)**, **RabbitMQ**, Hangfire, Distributed Event Buses |
@@ -90,6 +90,21 @@ Focused on optimizing throughput, eliminating DB latency bottlenecks, designing 
     </td>
   </tr>
 </table>
+
+---
+
+## 💻 Featured Flagship Systems
+
+<div align="center">
+
+| Project | Key Technologies & Architecture Highlights |
+| :--- | :--- |
+| 🎟️ **DevPulse** | High-concurrency event ticketing backend engine built with **.NET**, **Docker**, **Redis**, **RabbitMQ**, **Serilog**, and **Mapster**. |
+| 🏨 **Hotel Booking Engine** | Enterprise reservation platform using **ASP.NET Core**, **Clean Architecture**, and **CQRS** handling room inventory & payments. |
+| 💬 **Real-Time Messaging Platform** | Scalable chat platform with group channels and audio notes powered by **SignalR WebSockets**, **ASP.NET Core**, and **JWT**. |
+| 📝 **Automated Exam Engine** | Multi-role platform featuring dynamic question generation, automated grading, and role-based test administration. |
+
+</div>
 
 ---
 

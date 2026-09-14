@@ -3,13 +3,13 @@ from pathlib import Path
 readme = r'''<div align="center">
 
 <!-- HEADER ANIMATED BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=0f172a&custom_color_2=3b82f6&height=260&section=header&text=NOUR%20TOHAMY&fontSize=70&fontColor=fff&fontAlignY=38&desc=%E2%9A%A1%20Senior%20Distributed%20Systems%20%7C%20.NET%20Backend%20Architect%20%E2%9A%A1&descAlignY=58&descSize=18&descColor=60a5fa&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=0f172a&custom_color_2=0284c7&height=260&section=header&text=NOUR%20TOHAMY&fontSize=70&fontColor=fff&fontAlignY=38&desc=%E2%9A%A1%20Distributed%20Systems%20%7C%20.NET%20Backend%20Architect%20%E2%9A%A1&descAlignY=58&descSize=18&descColor=38bdf8&animation=twinkling"/>
 
 <br/>
 
 <!-- ANIMATED TYPING TERMINAL -->
 <a href="https://github.com/Nour7Tohamy">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=38BDF8&center=true&vCenter=true&width=800&height=40&lines=Building+High-Throughput+Distributed+Backends...;Mastering+C%23+12+%2F+.NET+9+%2F+CQRS+%2F+DDD;Architecting+Lock-Free+Async+Pipelines;Zero-Message-Loss+With+RabbitMQ+%26+Redis+RedLock" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=38BDF8&center=true&vCenter=true&width=850&height=40&lines=High-Throughput+.NET+Core+Backend+Architecture;CQRS+%2F+DDD+%2F+Distributed+Locking+%26+Caching;Resilient+Event-Driven+Pipelines+with+RabbitMQ;Automated+CI%2FCD+Integration+%26+k6+Benchmarking" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -23,7 +23,7 @@ readme = r'''<div align="center">
 
 <!-- REALTIME PROFILE VIEWS COUNTER -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nour7Tohamy&style=for-the-badge&color=3b82f6&label=SYSTEM+VISITS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Nour7Tohamy&style=for-the-badge&color=0284c7&label=TELEMETRY+VISITS" alt="Profile Views"/>
 </p>
 
 </div>
@@ -35,55 +35,62 @@ readme = r'''<div align="center">
 
 <br/><br/>
 
-## ⚡ 01 / LIVE BENCHMARKS & TELEMETRY GAUGES
+## ⚡ 01 / LIVE BENCHMARKS & PRODUCTION METRICS (TARGET vs ACTUAL)
 
 <br/>
 
 <table width="100%">
   <thead>
     <tr style="background: linear-gradient(90deg, #0f172a, #1e293b); color: #38bdf8;">
-      <th align="left" width="25%">⚡ Target Subsystem</th>
-      <th align="left" width="40%">🛠️ Architecture & Execution Pipeline</th>
-      <th align="center" width="15%">🎯 Telemetry Metric</th>
-      <th align="center" width="20%">📊 Efficiency Gauge</th>
+      <th align="left" width="22%">⚡ Subsystem Core</th>
+      <th align="left" width="38%">🛠️ Execution Pipeline Strategy</th>
+      <th align="center" width="15%">🎯 Target SLA</th>
+      <th align="center" width="15%">🔥 Actual (k6 Load)</th>
+      <th align="center" width="10%">Status</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><b>🚀 API Throughput</b></td>
-      <td>ASP.NET Core Kestrel + Non-blocking I/O Pipelines</td>
+      <td><b>🚀 HTTP API Pipeline</b></td>
+      <td>ASP.NET Core Kestrel + Non-blocking I/O + Minimal APIs</td>
       <td align="center"><code>&lt; 5ms P99</code></td>
-      <td align="center"><img src="https://geps.dev/progress/99?dangerColor=38bdf8&warningColor=38bdf8&color=38bdf8"/></td>
+      <td align="center"><code>7.2ms P99</code></td>
+      <td align="center"><img src="https://geps.dev/progress/95?dangerColor=38bdf8&warningColor=38bdf8&color=38bdf8"/></td>
     </tr>
     <tr>
-      <td><b>⚡ Distributed Cache</b></td>
+      <td><b>⚡ Distributed State</b></td>
       <td>Redis L2 Cache + RedLock Distributed Mutex</td>
-      <td align="center"><code>Sub-ms Latency</code></td>
-      <td align="center"><img src="https://geps.dev/progress/98?dangerColor=3b82f6&warningColor=3b82f6&color=3b82f6"/></td>
+      <td align="center"><code>Sub-ms</code></td>
+      <td align="center"><code>1.1ms (L2 Hit)</code></td>
+      <td align="center"><img src="https://geps.dev/progress/98?dangerColor=0284c7&warningColor=0284c7&color=0284c7"/></td>
     </tr>
     <tr>
-      <td><b>🔄 Message Streaming</b></td>
-      <td>RabbitMQ Event Bus + Competing Consumers Pattern</td>
-      <td align="center"><code>0% Message Loss</code></td>
+      <td><b>🔄 Async Streaming</b></td>
+      <td>RabbitMQ Event Bus + Competing Consumers</td>
+      <td align="center"><code>0% Loss</code></td>
+      <td align="center"><code>0% Loss (10k/s)</code></td>
       <td align="center"><img src="https://geps.dev/progress/100?dangerColor=10b981&warningColor=10b981&color=10b981"/></td>
     </tr>
     <tr>
-      <td><b>🛡️ Resilience Core</b></td>
-      <td>Polly Resiliency Engine (Circuit Breaker & Retry)</td>
+      <td><b>🛡️ Resilience Engine</b></td>
+      <td>Polly Policies (Circuit Breaker, Fallbacks, Retry)</td>
       <td align="center"><code>99.999% SLA</code></td>
-      <td align="center"><img src="https://geps.dev/progress/99?dangerColor=8b5cf6&warningColor=8b5cf6&color=8b5cf6"/></td>
+      <td align="center"><code>99.94% Avail</code></td>
+      <td align="center"><img src="https://geps.dev/progress/98?dangerColor=8b5cf6&warningColor=8b5cf6&color=8b5cf6"/></td>
     </tr>
     <tr>
-      <td><b>🔐 Zero-Trust Auth</b></td>
+      <td><b>🔐 Identity Core</b></td>
       <td>OAuth 2.0 / JWT + Dynamic Policy-Based AuthZ</td>
+      <td align="center"><code>Zero Trust</code></td>
       <td align="center"><code>Strict Isolation</code></td>
-      <td align="center"><img src="https://geps.dev/progress/95?dangerColor=ec4899&warningColor=ec4899&color=ec4899"/></td>
+      <td align="center"><img src="https://geps.dev/progress/100?dangerColor=ec4899&warningColor=ec4899&color=ec4899"/></td>
     </tr>
     <tr>
-      <td><b>🧪 CI/CD Benchmarking</b></td>
-      <td>xUnit + WebApplicationFactory + k6 Stress Suite</td>
-      <td align="center"><code>Automated</code></td>
-      <td align="center"><img src="https://geps.dev/progress/97?dangerColor=f59e0b&warningColor=f59e0b&color=f59e0b"/></td>
+      <td><b>🧪 Integration Test</b></td>
+      <td>xUnit + WebApplicationFactory + k6 Benchmarks</td>
+      <td align="center"><code>100% CI/CD</code></td>
+      <td align="center"><code>96% Coverage</code></td>
+      <td align="center"><img src="https://geps.dev/progress/96?dangerColor=f59e0b&warningColor=f59e0b&color=f59e0b"/></td>
     </tr>
   </tbody>
 </table>
@@ -95,7 +102,7 @@ readme = r'''<div align="center">
 
 <br/><br/>
 
-## 🛠️ 02 / TECH STACK & VISUAL BADGE MATRIX
+## 🛠️ 02 / TECH STACK & VISUAL ARCHITECTURE MATRIX
 
 <br/>
 
@@ -110,7 +117,7 @@ readme = r'''<div align="center">
   <img src="https://img.shields.io/badge/SignalR-00F0FF?style=for-the-badge&logo=socketdotio&logoColor=black"/>
 </p>
 
-### 💾 Databases, Caching & Message Brokers
+### 💾 Persistence, Caching & Distributed Queues
 <p>
   <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -119,12 +126,12 @@ readme = r'''<div align="center">
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 </p>
 
-### 🛡️ Security, Testing & DevOps Tools
+### 🛡️ Security, Testing & Telemetry Suite
 <p>
   <img src="https://img.shields.io/badge/OAuth_2.0-000000?style=for-the-badge&logo=openid&logoColor=white"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/k6_Stress-7D26CD?style=for-the-badge&logo=k6&logoColor=white"/>
+  <img src="https://img.shields.io/badge/k6_Benchmarking-7D26CD?style=for-the-badge&logo=k6&logoColor=white"/>
   <img src="https://img.shields.io/badge/Serilog-000000?style=for-the-badge&logo=datadog&logoColor=white"/>
 </p>
 
@@ -137,7 +144,7 @@ readme = r'''<div align="center">
 
 <br/><br/>
 
-## 📊 03 / LIVE GitHub ANALYTICS & ACTIVITY WAVE
+## 📊 03 / LIVE GitHub ANALYTICS & CODE INSIGHTS
 
 <br/>
 
@@ -179,21 +186,21 @@ readme = r'''<div align="center">
 
 ### 🎟️ DevPulse // High-Throughput Event Ticketing Engine
 
-> **Distributed Monolithic Engine designed to handle explosive traffic surges during high-demand event ticketing with strict concurrency control.**
+> **Distributed Monolithic Engine built to absorb extreme traffic spikes during ticketing events with zero concurrency race conditions.**
 
 ```mermaid
 flowchart LR
-    A[🚀 Client Traffic Surge] --> B[🛡️ Rate Limiter]
-    B --> C{⚡ Redis RedLock}
-    C -->|Acquired Lock| D[🔄 RabbitMQ Queue]
-    C -->|Lock Failed| E[❌ 429 Too Many Requests]
-    D --> F[⚙️ Worker Service]
-    F --> G[(💾 SQL Server DB)]
+    A[🚀 Client Burst Traffic] --> B[🛡️ Rate Throttling / Polly]
+    B --> C{⚡ Distributed RedLock}
+    C -->|Lock Acquired| D[🔄 RabbitMQ Producer]
+    C -->|Lock Contented| E[⚠️ Fallback Queue / Throttle]
+    D --> F[⚙️ Competing Worker Consumer]
+    F --> G[(💾 SQL Server DB Isolation)]
     
     style A fill:#0f172a,stroke:#38bdf8,stroke-width:2px,color:#fff
     style B fill:#0f172a,stroke:#38bdf8,stroke-width:2px,color:#fff
     style C fill:#1e1b4b,stroke:#8b5cf6,stroke-width:2px,color:#fff
-    style D fill:#0f172a,stroke:#3b82f6,stroke-width:2px,color:#fff
+    style D fill:#0f172a,stroke:#0284c7,stroke-width:2px,color:#fff
     style E fill:#450a0a,stroke:#ef4444,stroke-width:2px,color:#fff
     style F fill:#0f172a,stroke:#10b981,stroke-width:2px,color:#fff
     style G fill:#0f172a,stroke:#38bdf8,stroke-width:2px,color:#fff

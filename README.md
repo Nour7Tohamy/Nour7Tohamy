@@ -42,66 +42,66 @@ readme = r'''<div align="center">
 <div align="center">
 
 <!-- CARDS DASHBOARD CONTAINER GRID -->
-<table border="0" width="100%">
+<table border="0" width="100%" cellspacing="10" cellpadding="0">
   <tr>
-    <td width="50%" align="center">
+    <td width="50%" align="center" valign="top">
       <!-- DASHBOARD CARD 1: HTTP API PIPELINE -->
-      <table border="1" style="border-color: #eab308; background-color: #0f172a;" width="95%">
+      <table border="1" style="border-color: #eab308; background-color: #0f172a; border-radius: 8px;" width="100%">
         <tr>
-          <td align="center" style="padding: 15px;">
-            <h3 style="color: #eab308; margin: 0;">🚀 HTTP API Pipeline</h3>
-            <p style="color: #94a3b8; font-size: 13px;">ASP.NET Core Kestrel + Non-blocking I/O</p>
-            <hr style="border-color: #334155;"/>
-            <p><b>Target SLA:</b> <code style="color: #10b981;">&lt; 5ms P99</code></p>
-            <p><b>Actual Load (k6):</b> <code style="color: #eab308;">7.2ms P99</code></p>
-            <img src="https://geps.dev/progress/95?dangerColor=eab308&warningColor=eab308&color=eab308" width="80%"/>
+          <td align="center" style="padding: 18px;">
+            <h3 style="color: #eab308; margin: 0 0 5px 0;">🚀 HTTP API Pipeline</h3>
+            <p style="color: #94a3b8; font-size: 13px; margin: 0 0 10px 0;">ASP.NET Core Kestrel + Non-blocking I/O</p>
+            <hr style="border-color: #334155; margin: 10px 0;"/>
+            <p style="margin: 6px 0;"><b>Target SLA:</b> <code style="color: #10b981;">&lt; 5ms P99</code></p>
+            <p style="margin: 6px 0 12px 0;"><b>Actual Load (k6):</b> <code style="color: #eab308;">7.2ms P99</code></p>
+            <img src="https://geps.dev/progress/95?dangerColor=eab308&warningColor=eab308&color=eab308" width="85%"/>
           </td>
         </tr>
       </table>
     </td>
-    <td width="50%" align="center">
+    <td width="50%" align="center" valign="top">
       <!-- DASHBOARD CARD 2: DISTRIBUTED STATE -->
-      <table border="1" style="border-color: #eab308; background-color: #0f172a;" width="95%">
+      <table border="1" style="border-color: #eab308; background-color: #0f172a; border-radius: 8px;" width="100%">
         <tr>
-          <td align="center" style="padding: 15px;">
-            <h3 style="color: #eab308; margin: 0;">⚡ Distributed State</h3>
-            <p style="color: #94a3b8; font-size: 13px;">Redis L2 Cache + RedLock Distributed Mutex</p>
-            <hr style="border-color: #334155;"/>
-            <p><b>Target SLA:</b> <code style="color: #10b981;">Sub-ms Latency</code></p>
-            <p><b>Actual Load (k6):</b> <code style="color: #eab308;">1.1ms (L2 Hit)</code></p>
-            <img src="https://geps.dev/progress/98?dangerColor=eab308&warningColor=eab308&color=eab308" width="80%"/>
+          <td align="center" style="padding: 18px;">
+            <h3 style="color: #eab308; margin: 0 0 5px 0;">⚡ Distributed State</h3>
+            <p style="color: #94a3b8; font-size: 13px; margin: 0 0 10px 0;">Redis L2 Cache + RedLock Distributed Mutex</p>
+            <hr style="border-color: #334155; margin: 10px 0;"/>
+            <p style="margin: 6px 0;"><b>Target SLA:</b> <code style="color: #10b981;">Sub-ms Latency</code></p>
+            <p style="margin: 6px 0 12px 0;"><b>Actual Load (k6):</b> <code style="color: #eab308;">1.1ms (L2 Hit)</code></p>
+            <img src="https://geps.dev/progress/98?dangerColor=eab308&warningColor=eab308&color=eab308" width="85%"/>
           </td>
         </tr>
       </table>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
+    <td width="50%" align="center" valign="top">
       <!-- DASHBOARD CARD 3: ASYNC STREAMING -->
-      <table border="1" style="border-color: #eab308; background-color: #0f172a;" width="95%">
+      <table border="1" style="border-color: #eab308; background-color: #0f172a; border-radius: 8px;" width="100%">
         <tr>
-          <td align="center" style="padding: 15px;">
-            <h3 style="color: #eab308; margin: 0;">🔄 Async Streaming</h3>
-            <p style="color: #94a3b8; font-size: 13px;">RabbitMQ Event Bus + Competing Consumers</p>
-            <hr style="border-color: #334155;"/>
-            <p><b>Target SLA:</b> <code style="color: #10b981;">0% Message Loss</code></p>
-            <p><b>Actual Load (k6):</b> <code style="color: #eab308;">0% Loss (10k req/s)</code></p>
-            <img src="https://geps.dev/progress/100?dangerColor=eab308&warningColor=eab308&color=eab308" width="80%"/>
+          <td align="center" style="padding: 18px;">
+            <h3 style="color: #eab308; margin: 0 0 5px 0;">🔄 Async Streaming</h3>
+            <p style="color: #94a3b8; font-size: 13px; margin: 0 0 10px 0;">RabbitMQ Event Bus + Competing Consumers</p>
+            <hr style="border-color: #334155; margin: 10px 0;"/>
+            <p style="margin: 6px 0;"><b>Target SLA:</b> <code style="color: #10b981;">0% Message Loss</code></p>
+            <p style="margin: 6px 0 12px 0;"><b>Actual Load (k6):</b> <code style="color: #eab308;">0% Loss (10k req/s)</code></p>
+            <img src="https://geps.dev/progress/100?dangerColor=eab308&warningColor=eab308&color=eab308" width="85%"/>
           </td>
         </tr>
       </table>
     </td>
-    <td width="50%" align="center">
+    <td width="50%" align="center" valign="top">
       <!-- DASHBOARD CARD 4: RESILIENCE ENGINE -->
-      <table border="1" style="border-color: #eab308; background-color: #0f172a;" width="95%">
+      <table border="1" style="border-color: #eab308; background-color: #0f172a; border-radius: 8px;" width="100%">
         <tr>
-          <td align="center" style="padding: 15px;">
-            <h3 style="color: #eab308; margin: 0;">🛡️ Resilience Engine</h3>
-            <p style="color: #94a3b8; font-size: 13px;">Polly (Circuit Breaker, Retry, Fallback)</p>
-            <hr style="border-color: #334155;"/>
-            <p><b>Target SLA:</b> <code style="color: #10b981;">99.999% SLA</code></p>
-            <p><b>Actual Load (k6):</b> <code style="color: #eab308;">99.94% Availability</code></p>
-            <img src="https://geps.dev/progress/98?dangerColor=eab308&warningColor=eab308&color=eab308" width="80%"/>
+          <td align="center" style="padding: 18px;">
+            <h3 style="color: #eab308; margin: 0 0 5px 0;">🛡️ Resilience Engine</h3>
+            <p style="color: #94a3b8; font-size: 13px; margin: 0 0 10px 0;">Polly (Circuit Breaker, Retry, Fallback)</p>
+            <hr style="border-color: #334155; margin: 10px 0;"/>
+            <p style="margin: 6px 0;"><b>Target SLA:</b> <code style="color: #10b981;">99.999% SLA</code></p>
+            <p style="margin: 6px 0 12px 0;"><b>Actual Load (k6):</b> <code style="color: #eab308;">99.94% Availability</code></p>
+            <img src="https://geps.dev/progress/98?dangerColor=eab308&warningColor=eab308&color=eab308" width="85%"/>
           </td>
         </tr>
       </table>
@@ -200,7 +200,7 @@ readme = r'''<div align="center">
 <div align="center">
 
 <!-- SYSTEM 1 CARD: DEVPULSE ENGINE -->
-<table border="1" style="border-color: #eab308; background-color: #0f172a;" width="100%">
+<table border="1" style="border-color: #eab308; background-color: #0f172a; border-radius: 8px;" width="100%">
   <tr>
     <td style="padding: 20px;">
       <h2 align="center" style="color: #eab308; margin-top: 0;">🎟️ DevPulse // High-Throughput Event Engine</h2>
@@ -215,7 +215,16 @@ graph TD
     classDef worker fill:#064e3b,stroke:#10b981,stroke-width:2px,color:#fff;
     classDef db fill:#0f172a,stroke:#eab308,stroke-width:3px,color:#fff;
 
-    A[🚀 Client Traffic Spike] ::: client --> B[🛡️ Rate Throttling / Polly] ::: gateway
-    B --> C{⚡ Distributed RedLock Mutex} ::: lock
-    C -->|Lock Acquired| D[🔄 RabbitMQ Producer] ::: queue
-    C -->|Lock Contented| E[⚠️ Fallback Buffer Engine] ::: client
+    A[🚀 Client Traffic Spike] --> B[🛡️ Rate Throttling / Polly]
+    B --> C{⚡ Distributed RedLock Mutex}
+    C -->|Lock Acquired| D[🔄 RabbitMQ Producer]
+    C -->|Lock Contented| E[⚠️ Fallback Buffer Engine]
+    D --> F[⚙️ Competing Worker Consumer]
+    F --> G[(💾 SQL Server Database Isolation)]
+
+    class A,E client;
+    class B gateway;
+    class C lock;
+    class D queue;
+    class F worker;
+    class G db;

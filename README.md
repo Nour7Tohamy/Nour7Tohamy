@@ -35,27 +35,79 @@ readme = r'''<div align="center">
 
 <br/><br/>
 
-## 👑 01 / SYSTEM PERFORMANCE TELEMETRY & GAUGES
+## 👑 01 / SYSTEM PERFORMANCE TELEMETRY & DASHBOARD CARDS
 
 <br/>
 
 <div align="center">
 
-<!-- HIGHLIGHT METRICS HERO CARDS -->
-<p align="center">
-  <img src="https://img.shields.io/badge/🚀_HTTP_API_Pipeline-Target:_<5ms_P99_|_Actual:_7.2ms_P99-eab308?style=for-the-badge&logo=fastapi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/⚡_Distributed_State-Target:_Sub--ms_|_Actual:_1.1ms_L2_Hit-eab308?style=for-the-badge&logo=redis&logoColor=black"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🔄_Async_Streaming-Target:_0%25_Loss_|_Actual:_0%25_Loss_(10k/s)-eab308?style=for-the-badge&logo=rabbitmq&logoColor=black"/>
-  <img src="https://img.shields.io/badge/🛡️_Resilience_Engine-Target:_99.999%25_SLA_|_Actual:_99.94%25_Avail-eab308?style=for-the-badge&logo=polly&logoColor=black"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🔐_Identity_Core-Target:_Zero_Trust_|_Actual:_Strict_Isolation-eab308?style=for-the-badge&logo=jsonwebtokens&logoColor=black"/>
-  <img src="https://img.shields.io/badge/🧪_Integration_Tests-Target:_100%25_CI/CD_|_Actual:_96%25_Coverage-eab308?style=for-the-badge&logo=k6&logoColor=black"/>
-</p>
+<!-- CARDS DASHBOARD CONTAINER GRID -->
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <!-- DASHBOARD CARD 1: HTTP API PIPELINE -->
+      <table border="1" style="border-color: #eab308; background-color: #0f172a;" width="95%">
+        <tr>
+          <td align="center" style="padding: 15px;">
+            <h3 style="color: #eab308; margin: 0;">🚀 HTTP API Pipeline</h3>
+            <p style="color: #94a3b8; font-size: 13px;">ASP.NET Core Kestrel + Non-blocking I/O</p>
+            <hr style="border-color: #334155;"/>
+            <p><b>Target SLA:</b> <code style="color: #10b981;">&lt; 5ms P99</code></p>
+            <p><b>Actual Load (k6):</b> <code style="color: #eab308;">7.2ms P99</code></p>
+            <img src="https://geps.dev/progress/95?dangerColor=eab308&warningColor=eab308&color=eab308" width="80%"/>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="50%" align="center">
+      <!-- DASHBOARD CARD 2: DISTRIBUTED STATE -->
+      <table border="1" style="border-color: #eab308; background-color: #0f172a;" width="95%">
+        <tr>
+          <td align="center" style="padding: 15px;">
+            <h3 style="color: #eab308; margin: 0;">⚡ Distributed State</h3>
+            <p style="color: #94a3b8; font-size: 13px;">Redis L2 Cache + RedLock Distributed Mutex</p>
+            <hr style="border-color: #334155;"/>
+            <p><b>Target SLA:</b> <code style="color: #10b981;">Sub-ms Latency</code></p>
+            <p><b>Actual Load (k6):</b> <code style="color: #eab308;">1.1ms (L2 Hit)</code></p>
+            <img src="https://geps.dev/progress/98?dangerColor=eab308&warningColor=eab308&color=eab308" width="80%"/>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <!-- DASHBOARD CARD 3: ASYNC STREAMING -->
+      <table border="1" style="border-color: #eab308; background-color: #0f172a;" width="95%">
+        <tr>
+          <td align="center" style="padding: 15px;">
+            <h3 style="color: #eab308; margin: 0;">🔄 Async Streaming</h3>
+            <p style="color: #94a3b8; font-size: 13px;">RabbitMQ Event Bus + Competing Consumers</p>
+            <hr style="border-color: #334155;"/>
+            <p><b>Target SLA:</b> <code style="color: #10b981;">0% Message Loss</code></p>
+            <p><b>Actual Load (k6):</b> <code style="color: #eab308;">0% Loss (10k req/s)</code></p>
+            <img src="https://geps.dev/progress/100?dangerColor=eab308&warningColor=eab308&color=eab308" width="80%"/>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="50%" align="center">
+      <!-- DASHBOARD CARD 4: RESILIENCE ENGINE -->
+      <table border="1" style="border-color: #eab308; background-color: #0f172a;" width="95%">
+        <tr>
+          <td align="center" style="padding: 15px;">
+            <h3 style="color: #eab308; margin: 0;">🛡️ Resilience Engine</h3>
+            <p style="color: #94a3b8; font-size: 13px;">Polly (Circuit Breaker, Retry, Fallback)</p>
+            <hr style="border-color: #334155;"/>
+            <p><b>Target SLA:</b> <code style="color: #10b981;">99.999% SLA</code></p>
+            <p><b>Actual Load (k6):</b> <code style="color: #eab308;">99.94% Availability</code></p>
+            <img src="https://geps.dev/progress/98?dangerColor=eab308&warningColor=eab308&color=eab308" width="80%"/>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -66,14 +118,14 @@ readme = r'''<div align="center">
 
 <br/><br/>
 
-## 🛠️ 02 / TECH STACK & ARCHITECTURE METRICS
+## 🛠️ 02 / TECH STACK & ARCHITECTURE MATRIX
 
 <br/>
 
 <div align="center">
 
 <!-- TECH METRICS STAT CARD -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nour7Tohamy&layout=compact&theme=tokyo-night&hide_border=true&title_color=eab308&text_color=ffffff&bg_color=0f172a" width="60%" alt="Tech Languages Matrix Card"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nour7Tohamy&layout=compact&theme=tokyo-night&hide_border=false&border_color=eab308&title_color=eab308&text_color=ffffff&bg_color=0f172a" width="75%" alt="Tech Languages Matrix Card"/>
 
 <br/><br/>
 
@@ -141,17 +193,21 @@ readme = r'''<div align="center">
 
 <br/><br/>
 
-## ⚙️ 04 / FEATURED ARCHITECTURAL SYSTEMS GRAPH
+## ⚙️ 04 / FEATURED ARCHITECTURAL SYSTEMS CARDS
 
 <br/>
 
-### 🎟️ DevPulse // High-Throughput Event Ticketing Engine
+<div align="center">
 
-> **Distributed Monolithic Engine built to absorb extreme traffic spikes during ticketing events with zero concurrency race conditions.**
+<!-- SYSTEM 1 CARD: DEVPULSE ENGINE -->
+<table border="1" style="border-color: #eab308; background-color: #0f172a;" width="100%">
+  <tr>
+    <td style="padding: 20px;">
+      <h2 align="center" style="color: #eab308; margin-top: 0;">🎟️ DevPulse // High-Throughput Event Engine</h2>
+      <p align="center" style="color: #94a3b8;">Distributed Monolithic Architecture to absorb high concurrency traffic spikes with zero race conditions.</p>
 
 ```mermaid
 graph TD
-    %% Nodes Style Configuration
     classDef client fill:#0f172a,stroke:#eab308,stroke-width:2px,color:#fff;
     classDef gateway fill:#1e1b4b,stroke:#8b5cf6,stroke-width:2px,color:#fff;
     classDef lock fill:#451a03,stroke:#f97316,stroke-width:3px,color:#fff;
@@ -159,11 +215,7 @@ graph TD
     classDef worker fill:#064e3b,stroke:#10b981,stroke-width:2px,color:#fff;
     classDef db fill:#0f172a,stroke:#eab308,stroke-width:3px,color:#fff;
 
-    A[🚀 Client Burst Traffic Request] ::: client --> B[🛡️ Polly Circuit Breaker & Rate Throttler] ::: gateway
-    B --> C{⚡ Redis RedLock Mutex} ::: lock
-    
-    C -->|Lock Acquired| D[🔄 RabbitMQ Distributed Event Queue] ::: queue
-    C -->|Lock Contented / Retry| E[⚠️ Fallback Buffer / Throttle Engine] ::: client
-    
-    D --> F[⚙️ Competing Worker Service Pool] ::: worker
-    F --> G[(💾 SQL Server Database Isolation Transaction)] ::: db
+    A[🚀 Client Traffic Spike] ::: client --> B[🛡️ Rate Throttling / Polly] ::: gateway
+    B --> C{⚡ Distributed RedLock Mutex} ::: lock
+    C -->|Lock Acquired| D[🔄 RabbitMQ Producer] ::: queue
+    C -->|Lock Contented| E[⚠️ Fallback Buffer Engine] ::: client

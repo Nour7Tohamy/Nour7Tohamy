@@ -1,521 +1,339 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:050505,40:111827,60:312E81,78:0891B2,100:22D3EE&height=300&section=header&text=NOUR%20TOHAMY&fontSize=76&fontColor=FFFFFF&fontAlignY=36&desc=BACKEND%20ENGINEER%20%2F%2F%20SYSTEM%20BUILDER&descAlignY=59&descSize=20&descColor=67E8F9&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&duration=1800&pause=500&color=67E8F9&center=true&vCenter=true&width=950&height=65&lines=%5BSYSTEM+BOOT%5D+NOUR_OS.exe;Initializing+Backend+Core...;Loading+C%23+%2F+.NET+Runtime...;Connecting+Database+Layer...;Activating+Testing+Engine...;Performance+Module%3A+ONLINE;System+Status%3A+FULLY+OPERATIONAL+%E2%9A%A1" alt="NOUR OS"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:050505,50:111827,72:312E81,88:0891B2,100:22D3EE&height=320&section=header&text=NOUR%20TOHAMY&fontSize=82&fontColor=FFFFFF&fontAlignY=38&desc=BACKEND%20ENGINEER%20%E2%80%94%20DIGITAL%20SYSTEMS&descAlignY=62&descSize=20&descColor=67E8F9&animation=fadeIn"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-020617?style=for-the-badge&logoColor=67E8F9"/>
-<img src="https://img.shields.io/badge/BACKEND-CORE-020617?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/.NET-ENGINE-020617?style=for-the-badge&logo=dotnet&logoColor=67E8F9"/>
-<img src="https://img.shields.io/badge/BUILD-2050-020617?style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1700&pause=500&color=67E8F9&center=true&vCenter=true&width=1000&height=55&lines=WAKE+UP%2C+NOUR_OS.;BACKEND+CORE+INITIALIZED.;RELIABILITY+ENGINE+ONLINE.;PERFORMANCE+ENGINE+ONLINE.;SECURITY+CORE+ONLINE.;SYSTEMS+ARE+MEANT+TO+EVOLVE." />
 
 <br/><br/>
 
 <a href="https://github.com/Nour7Tohamy">
-<img src="https://img.shields.io/badge/%E2%97%88_GITHUB-020617?style=for-the-badge&logo=github&logoColor=67E8F9"/>
+<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=67E8F9"/>
 </a>
+
+  
 
 <a href="https://www.linkedin.com/in/Nour-Tohamy-a4763a350/">
-<img src="https://img.shields.io/badge/%E2%97%88_LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=67E8F9"/>
+<img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=67E8F9"/>
 </a>
+
+  
 
 <a href="mailto:nour.tohamy.dev@gmail.com">
-<img src="https://img.shields.io/badge/%E2%97%88_CONTACT-020617?style=for-the-badge&logo=gmail&logoColor=67E8F9"/>
+<img src="https://img.shields.io/badge/CONTACT-020617?style=for-the-badge&logo=gmail&logoColor=67E8F9"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Nour7Tohamy&style=for-the-badge&color=06B6D4&label=SYSTEM+VISITORS"/>
-
-</div>
-
----
-
-<div align="center">
-
-# `◈ NOUR_OS // COMMAND CENTER`
-
-```text
-┌──────────────────────────────────────────────────────────────────────┐
-│                                                                      │
-│   ███╗   ██╗ ██████╗ ██╗   ██╗██████╗      ██████╗ ███████╗        │
-│   ████╗  ██║██╔═══██╗██║   ██║██╔══██╗    ██╔═══██╗██╔════╝        │
-│   ██╔██╗ ██║██║   ██║██║   ██║██████╔╝    ██║   ██║███████╗        │
-│   ██║╚██╗██║██║   ██║╚██╗ ██╔╝██╔══██╗    ██║   ██║╚════██║        │
-│   ██║ ╚████║╚██████╔╝ ╚████╔╝ ██║  ██║    ╚██████╔╝███████║        │
-│   ╚═╝  ╚═══╝ ╚═════╝   ╚═══╝  ╚═╝  ╚═╝     ╚═════╝ ╚══════╝        │
-│                                                                      │
-│                BACKEND ENGINEERING // SYSTEM BUILDING               │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
-```
-
-### `SYSTEM MESSAGE`
-
-**Building reliable backend systems where clean code, testing, performance and security meet.**
-
-<br/>
-
-`C#`   `ASP.NET CORE`   `SQL`   `EF CORE`   `TESTING`   `PERFORMANCE`
-
-</div>
-
----
-
-<details>
-<summary>🧠 <b>NEURAL CORE // IDENTITY</b></summary>
-
-<br/>
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                     NEURAL CORE                              ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  DESIGNATION       → BACKEND ENGINEER                        ║
-║  PRIMARY SYSTEM    → .NET                                    ║
-║  LANGUAGE          → C#                                      ║
-║  DATA CORE         → SQL / EF CORE                           ║
-║  ARCHITECTURE      → CLEAN / CQRS                            ║
-║  QUALITY ENGINE    → AUTOMATED TESTING                       ║
-║  PERFORMANCE       → ANALYSIS / OPTIMIZATION                 ║
-║  SECURITY          → IDENTITY / JWT / 2FA / OAuth            ║
-║                                                              ║
-║  OPERATING MODE    → LEARN → BUILD → TEST → IMPROVE          ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</details>
-
----
-
-<div align="center">
-
-# `⚡ LIVE SYSTEM STATUS`
-
-|      MODULE     |    STATUS    |      CORE      |
-| :-------------: | :----------: | :------------: |
-|    `BACKEND`    |   🟢 ONLINE  |  ASP.NET Core  |
-|    `DATABASE`   |   🟢 ONLINE  |   SQL Server   |
-|    `TESTING`    |   🟢 ACTIVE  |  NUnit / xUnit |
-|    `SECURITY`   |   🟢 ACTIVE  | Identity / JWT |
-|    `REALTIME`   |   🟢 READY   |     SignalR    |
-|  `PERFORMANCE`  | 🟡 ANALYZING | Load / Latency |
-| `SYSTEM DESIGN` |  🟡 LOADING  |  Architecture  |
-
-</div>
-
----
-
-# `🧬 TECHNOLOGY DNA`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,sqlserver,postgres,redis,rabbitmq,docker,git,github,postman&perline=6&theme=dark"/>
+<img src="https://komarev.com/ghpvc/?username=Nour7Tohamy&style=flat-square&color=06B6D4&label=SYSTEM+ACCESS"/>
 
 </div>
 
 <br/>
 
-<details>
-<summary>🔬 <b>DECODE TECHNOLOGY DNA</b></summary>
-
-<br/>
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                      TECHNOLOGY DNA                         │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  LANGUAGE         ████████████████████  C#                  │
-│  BACKEND          ████████████████████  ASP.NET Core        │
-│  DATABASE         ███████████████████░  SQL Server          │
-│  ORM              ███████████████████░  EF Core             │
-│  ARCHITECTURE     ██████████████████░░  Clean / CQRS        │
-│  TESTING          ██████████████████░░  Automation          │
-│  SECURITY         ██████████████████░░  Identity / JWT      │
-│  PERFORMANCE      ███████████████░░░░░  Optimization        │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-</details>
-
----
-
 <div align="center">
 
-# `🛰️ MISSION CONTROL`
-
-</div>
-
-<details>
-<summary>🚀 <b>MISSION 01 // BACKEND CORE</b></summary>
-
-<br/>
-
-### `OBJECTIVE`
-
-Build maintainable and production-oriented backend systems.
-
-```text
-C#
-  ↓
-ASP.NET CORE
-  ↓
-REST API
-  ↓
-BUSINESS LOGIC
-  ↓
-EF CORE
-  ↓
-SQL SERVER
-```
-
-`Clean Architecture` `CQRS` `MediatR` `SOLID` `Repository Pattern`
-
-</details>
-
-<br/>
-
-<details>
-<summary>🧪 <b>MISSION 02 // QUALITY ENGINE</b></summary>
-
-<br/>
-
-### `OBJECTIVE`
-
-Make backend systems testable, predictable and reliable.
-
-```text
-UNIT
-  ↓
-INTEGRATION
-  ↓
-HTTP / API
-  ↓
-DATABASE
-  ↓
-LOAD
-  ↓
-PERFORMANCE
-```
-
-`NUnit` `xUnit` `Moq` `FluentAssertions`
-
-`WebApplicationFactory` `HttpClient` `EF Core InMemory`
-
-</details>
-
-<br/>
-
-<details>
-<summary>⚡ <b>MISSION 03 // PERFORMANCE ENGINE</b></summary>
-
-<br/>
-
-### `OBJECTIVE`
-
-Understand what happens when the system gets pushed.
-
-```text
-REQUEST
-   │
-   ├── LATENCY
-   │
-   ├── THROUGHPUT
-   │
-   ├── CONCURRENCY
-   │
-   ├── CPU
-   │
-   ├── MEMORY
-   │
-   └── DATABASE
-```
-
-`Load Testing` `Stress Testing` `Benchmarking`
-
-</details>
-
-<br/>
-
-<details>
-<summary>🔐 <b>MISSION 04 // SECURITY CORE</b></summary>
-
-<br/>
-
-### `OBJECTIVE`
-
-Protect identity, access and backend resources.
-
-```text
-IDENTITY
-   │
-   ├── JWT
-   ├── OAuth 2.0
-   ├── OpenID Connect
-   ├── ASP.NET Identity
-   ├── OTP
-   └── 2FA
-
-PROTECTION
-   │
-   ├── Dynamic Authorization
-   └── Rate Limiting
-```
-
-</details>
-
----
-
-<div align="center">
-
-# `🌐 PROJECT UNIVERSE`
-
-</div>
-
-<details>
-<summary>🎟️ <b>PROJECT // TICKETING ENGINE</b></summary>
-
-<br/>
-
-```text
-HIGH TRAFFIC
-     │
-     ▼
-┌───────────┐
-│   CACHE   │
-└─────┬─────┘
-      │
-      ▼
-┌───────────┐
-│  QUEUE    │
-└─────┬─────┘
-      │
-      ▼
-┌───────────┐
-│ DATABASE  │
-└───────────┘
-```
-
-**Focus:** concurrency · reliability · performance · scalability
-
-`ASP.NET Core` `Redis` `RabbitMQ` `Docker`
-
-</details>
-
-<br/>
-
-<details>
-<summary>🏨 <b>PROJECT // RESERVATION ENGINE</b></summary>
-
-<br/>
-
-**Reservation backend for rooms, availability, bookings and business rules.**
-
-`ASP.NET Core` `CQRS` `EF Core` `SQL Server`
-
-</details>
-
-<br/>
-
-<details>
-<summary>💬 <b>PROJECT // REALTIME NETWORK</b></summary>
-
-<br/>
-
-**Real-time communication and event delivery system.**
-
-`SignalR` `WebSockets` `JWT`
-
-</details>
-
-<br/>
-
-<details>
-<summary>📝 <b>PROJECT // EXAMINATION CORE</b></summary>
-
-<br/>
-
-**Multi-role examination platform with automated grading and structured workflows.**
-
-`ASP.NET Core` `EF Core` `Identity`
-
-</details>
-
----
-
-<div align="center">
-
-# `🧪 TESTING LAB`
-
-<img src="https://img.shields.io/badge/UNIT_TESTING-ONLINE-020617?style=for-the-badge&logo=nunit&logoColor=67E8F9"/>
-<img src="https://img.shields.io/badge/INTEGRATION-ONLINE-020617?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/API_TESTING-ONLINE-020617?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MOCKING-ONLINE-020617?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LOAD_TESTING-ACTIVE-020617?style=for-the-badge"/>
+<img width="75%" src="https://capsule-render.vercel.app/api?type=transparent&color=0:06B6D4,50:7C3AED,100:22D3EE&height=4&section=header"/>
 
 <br/><br/>
 
-```text
-                    TESTING PIPELINE
+# `THE ENGINEER BEHIND THE SYSTEM`
 
-       ┌─────────┐
-       │  UNIT   │
-       └────┬────┘
-            ↓
-       ┌─────────┐
-       │ INTEGR. │
-       └────┬────┘
-            ↓
-       ┌─────────┐
-       │   API   │
-       └────┬────┘
-            ↓
-       ┌─────────┐
-       │  LOAD   │
-       └────┬────┘
-            ↓
-       ┌─────────┐
-       │  SCALE  │
-       └─────────┘
-```
-
-</div>
-
----
-
-# `🔐 SECURITY MATRIX`
-
-<div align="center">
-
-|   SECURITY LAYER   |       TECHNOLOGY      |
-| :----------------: | :-------------------: |
-|      IDENTITY      |    ASP.NET Identity   |
-|   AUTHENTICATION   |          JWT          |
-|    EXTERNAL AUTH   |       OAuth 2.0       |
-| FEDERATED IDENTITY |     OpenID Connect    |
-|    VERIFICATION    |          OTP          |
-|    MULTI FACTOR    |          2FA          |
-|    AUTHORIZATION   | Dynamic Authorization |
-|     PROTECTION     |     Rate Limiting     |
-
-</div>
-
----
-
-<details>
-<summary>🧠 <b>ENGINEERING PROTOCOL</b></summary>
+### **I build backend systems that are meant to survive complexity.**
 
 <br/>
 
-```text
-          ┌───────────────┐
-          │     IDEA      │
-          └───────┬───────┘
-                  ↓
-          ┌───────────────┐
-          │     BUILD     │
-          └───────┬───────┘
-                  ↓
-          ┌───────────────┐
-          │     TEST      │
-          └───────┬───────┘
-                  ↓
-          ┌───────────────┐
-          │    MEASURE    │
-          └───────┬───────┘
-                  ↓
-          ┌───────────────┐
-          │   OPTIMIZE    │
-          └───────┬───────┘
-                  ↓
-          ┌───────────────┐
-          │     SCALE     │
-          └───────┬───────┘
-                  │
-                  └───────────► REPEAT
-```
-
-</details>
-
----
-
-<div align="center">
-
-# `📡 CURRENT TRANSMISSION`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2200&pause=600&color=67E8F9&center=true&vCenter=true&width=850&height=55&lines=%5B01%5D+MASTERING+BACKEND+TESTING;%5B02%5D+ANALYZING+SYSTEM+PERFORMANCE;%5B03%5D+LEARNING+SYSTEM+DESIGN;%5B04%5D+BUILDING+REAL+BACKEND+SYSTEMS;%5B05%5D+NEXT+LEVEL%3A+SCALE" alt="Current Mission"/>
+`C#`  •  `.NET`  •  `SQL`  •  `EF CORE`  •  `TESTING`  •  `PERFORMANCE`
 
 <br/><br/>
 
-```text
-STATUS:  ████████████████████  ONLINE
-
-MODE:
-LEARN → BUILD → TEST → MEASURE → IMPROVE
-
-TARGET:
-HIGHER QUALITY
-HIGHER PERFORMANCE
-BETTER SYSTEMS
-```
+<img width="55%" src="https://capsule-render.vercel.app/api?type=transparent&color=0:22D3EE,50:7C3AED,100:22D3EE&height=3&section=header"/>
 
 </div>
 
----
-
-# `👨‍🏫 KNOWLEDGE NETWORK`
+<br/><br/>
 
 <div align="center">
 
-<table>
-<tr>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=900&color=7C3AED&center=true&vCenter=true&width=850&height=40&lines=%2F%2F+CURRENT+OBJECTIVE%3A+ENGINEER+BETTER+SYSTEMS;%2F%2F+NOT+JUST+MORE+CODE.;%2F%2F+LESS+NOISE.+MORE+SIGNAL." />
 
-<td width="50%" align="center">
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+# `TECHNOLOGY // DNA`
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,aspnet,sqlserver,redis,rabbitmq,docker,git,github,postman&perline=10&theme=dark"/>
+
+<br/><br/>
+
+`C#`   
+`.NET`   
+`ASP.NET CORE`   
+`EF CORE`   
+`SQL SERVER`
+
+<br/>
+
+`CQRS`   
+`MEDIATR`   
+`CLEAN ARCHITECTURE`   
+`SOLID`
+
+<br/>
+
+`NUNIT`   
+`XUNIT`   
+`MOQ`   
+`FLUENTASSERTIONS`
+
+<br/>
+
+`JWT`   
+`OAUTH 2.0`   
+`IDENTITY`   
+`2FA`   
+`OTP`
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:111827,100:020617&height=2&section=header"/>
+
+<br/><br/>
+
+# `THE SYSTEM IS EVOLVING`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2300&pause=700&color=67E8F9&center=true&vCenter=true&width=850&height=45&lines=TESTING;%E2%86%93;PERFORMANCE;%E2%86%93;SYSTEM+DESIGN;%E2%86%93;DISTRIBUTED+SYSTEMS;%E2%86%93;SCALE" />
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+## `01 // BUILD`
+
+### **Backend Engineering**
+
+<br/>
+
+<img width="180" src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark"/>
+
+<br/><br/>
+
+**APIs. Business Logic. Data. Architecture.**
+
+<br/>
+
+`ASP.NET Core`  •  `REST`  •  `EF Core`
+`Clean Architecture`  •  `CQRS`  •  `MediatR`
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+<img width="65%" src="https://capsule-render.vercel.app/api?type=soft&color=0:020617,50:312E81,100:06B6D4&height=90&section=header&text=BUILD%20WITH%20INTENT&fontSize=22&fontColor=67E8F9"/>
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+## `02 // BREAK`
+
+### **Testing Engineering**
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2100&pause=800&color=67E8F9&center=true&vCenter=true&width=700&height=40&lines=IF+IT+CAN+BREAK%2C+TEST+IT.;IF+IT+SCALES%2C+MEASURE+IT.;IF+IT+MATTERS%2C+AUTOMATE+IT." />
+
+<br/><br/>
+
+`Unit Testing`  •  `Integration Testing`  •  `API Testing`
+
+<br/>
+
+`NUnit`  •  `xUnit`  •  `Moq`  •  `FluentAssertions`
+
+<br/>
+
+`WebApplicationFactory`  •  `HttpClient`  •  `EF Core InMemory`
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+## `03 // PUSH`
+
+### **Performance Engineering**
+
+<br/>
+
+`LATENCY`  •  `THROUGHPUT`  •  `CONCURRENCY`
+
+<br/><br/>
+
+`LOAD`  •  `STRESS`  •  `BENCHMARKING`
+
+<br/><br/>
+
+`DATABASE`  •  `CACHE`  •  `MEMORY`  •  `CPU`
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1900&pause=700&color=7C3AED&center=true&vCenter=true&width=700&height=40&lines=FIND+THE+BOTTLENECK.;REMOVE+THE+BOTTLENECK.;REPEAT." />
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+<img width="90%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:312E81,65:0891B2,100:020617&height=120&section=header"/>
+
+</div>
+
+<br/>
+
+# `PROJECTS // SIGNALS FROM THE FUTURE`
+
+<div align="center">
+
+### `TICKETING SYSTEM`
+
+<br/>
+
+**High-throughput backend focused on concurrency, reliability and scale.**
+
+<br/>
+
+`ASP.NET CORE`   `REDIS`   `RABBITMQ`   `DOCKER`
+
+<br/><br/>
+
+---
+
+<br/>
+
+### `ROOM RESERVATION ENGINE`
+
+<br/>
+
+**Reservation system for availability, bookings and business rules.**
+
+<br/>
+
+`ASP.NET CORE`   `CQRS`   `EF CORE`   `SQL SERVER`
+
+<br/><br/>
+
+---
+
+<br/>
+
+### `REAL-TIME COMMUNICATION`
+
+<br/>
+
+**Live communication and real-time event delivery.**
+
+<br/>
+
+`SIGNALR`   `WEBSOCKETS`   `JWT`
+
+<br/><br/>
+
+---
+
+<br/>
+
+### `EXAMINATION PLATFORM`
+
+<br/>
+
+**Multi-role examination platform with automated grading.**
+
+<br/>
+
+`ASP.NET CORE`   `EF CORE`   `IDENTITY`
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+# `SECURITY // ACTIVE DEFENSE`
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2000&pause=600&color=67E8F9&center=true&vCenter=true&width=800&height=40&lines=IDENTITY;%E2%86%92+JWT;%E2%86%92+OAUTH+2.0;%E2%86%92+OPENID+CONNECT;%E2%86%92+OTP;%E2%86%92+2FA;%E2%86%92+DYNAMIC+AUTHORIZATION;%E2%86%92+RATE+LIMITING" />
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+# `CURRENTLY // TRANSMITTING`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2400&pause=800&color=67E8F9&center=true&vCenter=true&width=900&height=50&lines=TESTING+%E2%86%92+PERFORMANCE+%E2%86%92+SYSTEM+DESIGN;LEARNING+HOW+SYSTEMS+BEHAVE+UNDER+PRESSURE;FROM+WRITING+CODE+TO+ENGINEERING+SYSTEMS" />
+
+<br/><br/>
+
+<img width="70%" src="https://capsule-render.vercel.app/api?type=transparent&color=0:22D3EE,50:7C3AED,100:22D3EE&height=3&section=header"/>
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+# `KNOWLEDGE // TRANSMISSION`
 
 ### `DECI`
 
-**TECHNICAL INSTRUCTOR**
+**Technical Instructor**
 
-`Software Engineering`
-`Databases`
-`Security`
+`Software Engineering`  •  `Databases`  •  `Security`
 
-</td>
-
-<td width="50%" align="center">
+<br/><br/>
 
 ### `eYOUTH ACADEMY`
 
-**TECHNICAL MENTOR**
+**Technical Mentor**
 
-`Backend Development`
-`Code Reviews`
-`Real-World Projects`
-
-</td>
-
-</tr>
-</table>
+`Backend Development`  •  `Code Reviews`  •  `Real-World Projects`
 
 </div>
 
----
+<br/><br/>
 
 <div align="center">
 
-# `📊 SYSTEM TELEMETRY`
+# `TELEMETRY`
 
 <br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Nour7Tohamy&show_icons=true&hide_border=true&bg_color=020617&title_color=67E8F9&icon_color=7C3AED&text_color=FFFFFF"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nour7Tohamy&show_icons=true&hide_border=true&bg_color=020617&title_color=67E8F9&icon_color=7C3AED&text_color=FFFFFF"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nour7Tohamy&layout=compact&hide_border=true&bg_color=020617&title_color=67E8F9&text_color=FFFFFF"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nour7Tohamy&layout=compact&hide_border=true&bg_color=020617&title_color=67E8F9&text_color=FFFFFF"/>
 
 <br/><br/>
 
@@ -523,46 +341,22 @@ BETTER SYSTEMS
 
 </div>
 
----
+<br/><br/>
 
 <div align="center">
 
-# `🌌 CONTRIBUTION MATRIX`
-
-<img src="https://raw.githubusercontent.com/Nour7Tohamy/Nour7Tohamy/output/github-contribution-grid-snake-dark.svg" alt="Contribution Matrix"/>
-
-</div>
-
----
-
-<div align="center">
-
-# `◈ SYSTEM TERMINATION`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&duration=2500&pause=700&color=67E8F9&center=true&vCenter=true&width=900&height=55&lines=THE+SYSTEM+IS+NEVER+FINISHED.;BUILD.;TEST.;MEASURE.;EVOLVE." alt="Final Transmission"/>
+<img width="100%" src="https://raw.githubusercontent.com/Nour7Tohamy/Nour7Tohamy/output/github-contribution-grid-snake-dark.svg"/>
 
 <br/><br/>
 
-```text
-┌────────────────────────────────────────────────────────────┐
-│                                                            │
-│        NOUR TOHAMY // BACKEND ENGINEER                    │
-│                                                            │
-│        BUILD     TEST     IMPROVE     SCALE                │
-│                                                            │
-│        STATUS: SYSTEM ONLINE ⚡                            │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=850&height=55&lines=CODE+IS+THE+INTERFACE.;SYSTEMS+ARE+THE+PRODUCT.;THE+FUTURE+IS+ENGINEERED." />
+
+<br/><br/>
+
+<img width="65%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,30:0891B2,55:312E81,75:111827,100:020617&height=180&section=footer&text=NOUR_OS&fontSize=38&fontColor=FFFFFF&animation=fadeIn"/>
 
 <br/>
 
-<a href="https://github.com/Nour7Tohamy">
-<img src="https://img.shields.io/badge/%E2%97%88_EXPLORE_THE_SYSTEM_%E2%97%88-020617?style=for-the-badge&logo=github&logoColor=67E8F9"/>
-</a>
-
-<br/><br/>
-
-`NOUR_OS // 2026 // BACKEND CORE // ONLINE`
+`NOUR TOHAMY`   //   `BACKEND ENGINEER`   //   `SYSTEM ONLINE`
 
 </div>

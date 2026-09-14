@@ -2,46 +2,65 @@ from pathlib import Path
 
 readme = r'''<div align="center">
 
-<!-- HEADER ANIMATED BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=0f172a&custom_color_2=0284c7&height=260&section=header&text=NOUR%20TOHAMY&fontSize=70&fontColor=fff&fontAlignY=38&desc=%E2%9A%A1%20Distributed%20Systems%20%7C%20.NET%20Backend%20Architect%20%E2%9A%A1&descAlignY=58&descSize=18&descColor=38bdf8&animation=twinkling"/>
+<!-- HEADER ANIMATED BANNER WITH GOLD NEON GRADIENT -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=0f172a&custom_color_2=eab308&height=280&section=header&text=NOUR%20TOHAMY&fontSize=70&fontColor=fff&fontAlignY=38&desc=%E2%9A%A1%20Distributed%20Systems%20%7C%20.NET%20Backend%20Architect%20%E2%9A%A1&descAlignY=58&descSize=18&descColor=fef08a&animation=twinkling"/>
 
 <br/>
 
 <!-- ANIMATED TYPING TERMINAL -->
 <a href="https://github.com/Nour7Tohamy">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=38BDF8&center=true&vCenter=true&width=850&height=40&lines=High-Throughput+.NET+Core+Backend+Architecture;CQRS+%2F+DDD+%2F+Distributed+Locking+%26+Caching;Resilient+Event-Driven+Pipelines+with+RabbitMQ;Automated+CI%2FCD+Integration+%26+k6+Benchmarking" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=EAB308&center=true&vCenter=true&width=850&height=40&lines=High-Throughput+.NET+Core+Backend+Architecture;CQRS+%2F+DDD+%2F+Distributed+Locking+%26+Caching;Resilient+Event-Driven+Pipelines+with+RabbitMQ;Automated+CI%2FCD+Integration+%26+k6+Benchmarking" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- INTERACTIVE BADGES -->
+<!-- INTERACTIVE GOLD BADGES -->
 <p align="center">
-  <a href="https://github.com/Nour7Tohamy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/Nour7Tohamy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=eab308"/></a>
   <a href="https://www.linkedin.com/in/Nour-Tohamy-a4763a350/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:nour.tohamy.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<!-- REALTIME PROFILE VIEWS COUNTER -->
+<!-- REALTIME PROFILE VIEWS COUNTER (GOLD STYLED) -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nour7Tohamy&style=for-the-badge&color=0284c7&label=TELEMETRY+VISITS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Nour7Tohamy&style=for-the-badge&color=eab308&label=TELEMETRY+VISITS" alt="Profile Views"/>
 </p>
 
 </div>
 
 <br/>
 
-<!-- GRADIENT SEPARATOR -->
+<!-- GOLD GRADIENT SEPARATOR -->
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <br/><br/>
 
-## ⚡ 01 / LIVE BENCHMARKS & PRODUCTION METRICS (TARGET vs ACTUAL)
+## 👑 01 / SYSTEM PERFORMANCE TELEMETRY & GAUGES
+
+<br/>
+
+<div align="center">
+
+<!-- VISUAL METRICS CARDS GRID -->
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/P99_API_LATENCY-<5ms_Target_--_7.2ms_Actual-eab308?style=for-the-badge&logo=speedtest&logoColor=black"/>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/REDIS_MUTEX_LOCK-Sub--ms_Latency-0284c7?style=for-the-badge&logo=redis&logoColor=white"/>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/MESSAGE_LOSS-0%25_at_10k_req/s-10b981?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 <table width="100%">
   <thead>
-    <tr style="background: linear-gradient(90deg, #0f172a, #1e293b); color: #38bdf8;">
+    <tr style="background: linear-gradient(90deg, #0f172a, #eab308); color: #000;">
       <th align="left" width="22%">⚡ Subsystem Core</th>
       <th align="left" width="38%">🛠️ Execution Pipeline Strategy</th>
       <th align="center" width="15%">🎯 Target SLA</th>
@@ -55,7 +74,7 @@ readme = r'''<div align="center">
       <td>ASP.NET Core Kestrel + Non-blocking I/O + Minimal APIs</td>
       <td align="center"><code>&lt; 5ms P99</code></td>
       <td align="center"><code>7.2ms P99</code></td>
-      <td align="center"><img src="https://geps.dev/progress/95?dangerColor=38bdf8&warningColor=38bdf8&color=38bdf8"/></td>
+      <td align="center"><img src="https://geps.dev/progress/95?dangerColor=eab308&warningColor=eab308&color=eab308"/></td>
     </tr>
     <tr>
       <td><b>⚡ Distributed State</b></td>
@@ -95,9 +114,11 @@ readme = r'''<div align="center">
   </tbody>
 </table>
 
+</div>
+
 <br/>
 
-<!-- GRADIENT SEPARATOR -->
+<!-- GOLD GRADIENT SEPARATOR -->
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <br/><br/>
@@ -108,7 +129,7 @@ readme = r'''<div align="center">
 
 <div align="center">
 
-### 🏗️ Core Technologies & Frameworks
+### 🏗️ Core Engineering Stack
 <p>
   <img src="https://img.shields.io/badge/C%23_12-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET_9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
@@ -117,7 +138,7 @@ readme = r'''<div align="center">
   <img src="https://img.shields.io/badge/SignalR-00F0FF?style=for-the-badge&logo=socketdotio&logoColor=black"/>
 </p>
 
-### 💾 Persistence, Caching & Distributed Queues
+### 💾 Persistence, Caching & Message Queues
 <p>
   <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -126,7 +147,7 @@ readme = r'''<div align="center">
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 </p>
 
-### 🛡️ Security, Testing & Telemetry Suite
+### 🛡️ Security, Testing & Telemetry Infrastructure
 <p>
   <img src="https://img.shields.io/badge/OAuth_2.0-000000?style=for-the-badge&logo=openid&logoColor=white"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
@@ -139,48 +160,49 @@ readme = r'''<div align="center">
 
 <br/>
 
-<!-- GRADIENT SEPARATOR -->
+<!-- GOLD GRADIENT SEPARATOR -->
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <br/><br/>
 
-## 📊 03 / LIVE GitHub ANALYTICS & CODE INSIGHTS
+## 📊 03 / LIVE GitHub ANALYTICS & VISUAL CODE DASHBOARD
 
 <br/>
 
 <div align="center">
 
-<!-- ANIMATED ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nour7Tohamy&theme=tokyo-night&area=true&hide_border=true" width="98%" alt="Live Activity Graph"/>
+<!-- MAIN ANIMATED ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nour7Tohamy&theme=tokyo-night&area=true&hide_border=true&color=eab308" width="98%" alt="Live Activity Graph"/>
 
 <br/><br/>
 
-<!-- STATS CARDS -->
+<!-- TWO COLUMN STATS DASHBOARD -->
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Nour7Tohamy&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Nour7Tohamy&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true&title_color=eab308&icon_color=eab308" width="100%"/>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nour7Tohamy&layout=compact&theme=tokyo-night&hide_border=true" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nour7Tohamy&layout=compact&theme=tokyo-night&hide_border=true&title_color=eab308" width="100%"/>
     </td>
   </tr>
 </table>
 
-<!-- ANIMATED STREAK STATS -->
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nour7Tohamy&theme=tokyo-night&hide_border=true" width="98%"/>
+
+<!-- STREAK STATS GRAPH -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nour7Tohamy&theme=tokyo-night&hide_border=true&ring=eab308&fire=eab308&currStreakLabel=eab308" width="98%"/>
 
 </div>
 
 <br/>
 
-<!-- GRADIENT SEPARATOR -->
+<!-- GOLD GRADIENT SEPARATOR -->
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <br/><br/>
 
-## ⚙️ 04 / FEATURED ARCHITECTURAL SYSTEMS
+## ⚙️ 04 / FEATURED ARCHITECTURAL SYSTEMS GRAPH
 
 <br/>
 
@@ -197,10 +219,10 @@ flowchart LR
     D --> F[⚙️ Competing Worker Consumer]
     F --> G[(💾 SQL Server DB Isolation)]
     
-    style A fill:#0f172a,stroke:#38bdf8,stroke-width:2px,color:#fff
-    style B fill:#0f172a,stroke:#38bdf8,stroke-width:2px,color:#fff
+    style A fill:#0f172a,stroke:#eab308,stroke-width:2px,color:#fff
+    style B fill:#0f172a,stroke:#eab308,stroke-width:2px,color:#fff
     style C fill:#1e1b4b,stroke:#8b5cf6,stroke-width:2px,color:#fff
     style D fill:#0f172a,stroke:#0284c7,stroke-width:2px,color:#fff
     style E fill:#450a0a,stroke:#ef4444,stroke-width:2px,color:#fff
     style F fill:#0f172a,stroke:#10b981,stroke-width:2px,color:#fff
-    style G fill:#0f172a,stroke:#38bdf8,stroke-width:2px,color:#fff
+    style G fill:#0f172a,stroke:#eab308,stroke-width:2px,color:#fff

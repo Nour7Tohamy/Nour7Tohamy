@@ -36,87 +36,123 @@ readme = r'''<div align="center">
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=0:00F0FF,50:7C3AED,100:00F0FF&height=3&section=header"/>
-
-# 🎛️ `SYSTEM CONTROL CENTER & METRICS`
-
-</div>
-
-<br/>
-
-## ⚡ `01 / LIVE BENCHMARKS & TELEMETRY`
+## ⚡ `01 / LIVE BENCHMARKS & SYSTEM TELEMETRY`
 
 <table width="100%">
   <thead>
     <tr style="background-color: #020617; color: #00F0FF;">
-      <th align="left" width="30%">Target Domain</th>
-      <th align="left" width="45%">Architectural Pattern / Mechanism</th>
-      <th align="center" width="25%">Status Benchmark</th>
+      <th align="left" width="22%">Target Domain</th>
+      <th align="left" width="38%">Architectural Pattern & Engine</th>
+      <th align="left" width="22%">Status Metric</th>
+      <th align="center" width="18%">Efficiency Gauge</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>🚀 <b>API Throughput</b></td>
-      <td>ASP.NET Core Web API + Asynchronous Pipelines</td>
-      <td align="center"><code>&lt; 10ms P99 Latency</code></td>
+      <td>ASP.NET Core Web API + Lock-Free Async Pipelines</td>
+      <td><code>&lt; 8ms P99 Latency</code></td>
+      <td align="center"><img src="https://geps.dev/progress/98?dangerColor=00F0FF&warningColor=00F0FF&color=00F0FF"/></td>
     </tr>
     <tr>
-      <td>⚡ <b>Distributed Cache</b></td>
-      <td>Redis In-Memory Data Store & Pub/Sub</td>
-      <td align="center"><code>Sub-millisecond</code></td>
+      <td>⚡ <b>Distributed Caching</b></td>
+      <td>Redis L2 Cache + Distributed Lock (RedLock)</td>
+      <td><code>Sub-millisecond</code></td>
+      <td align="center"><img src="https://geps.dev/progress/99?dangerColor=00F0FF&warningColor=00F0FF&color=00F0FF"/></td>
     </tr>
     <tr>
-      <td>🔄 <b>Event Streaming</b></td>
-      <td>RabbitMQ Producer / Consumer Queue Buffers</td>
-      <td align="center"><code>Zero Message Loss</code></td>
+      <td>🔄 <b>Message Queue Engine</b></td>
+      <td>RabbitMQ Event Bus + Competing Consumers</td>
+      <td><code>Zero Message Loss</code></td>
+      <td align="center"><img src="https://geps.dev/progress/100?dangerColor=00F0FF&warningColor=00F0FF&color=00F0FF"/></td>
     </tr>
     <tr>
-      <td>🛡️ <b>Fault Tolerance</b></td>
-      <td>Polly Circuit Breaker & Retry Policies</td>
-      <td align="center"><code>99.99% Resilience</code></td>
+      <td>🛡️ <b>Fault Resilience</b></td>
+      <td>Polly Resiliency (Circuit Breaker, Fallbacks, Retry)</td>
+      <td><code>99.99% Availability</code></td>
+      <td align="center"><img src="https://geps.dev/progress/99?dangerColor=00F0FF&warningColor=00F0FF&color=00F0FF"/></td>
     </tr>
     <tr>
-      <td>🧪 <b>Quality Assurance</b></td>
-      <td>xUnit, Moq, WebApplicationFactory, k6 Load Tests</td>
-      <td align="center"><code>Automated CI/CD</code></td>
+      <td>🔐 <b>Zero-Trust Auth Core</b></td>
+      <td>OAuth 2.0 / JWT + Dynamic Policy Authorization</td>
+      <td><code>Strict Isolation</code></td>
+      <td align="center"><img src="https://geps.dev/progress/95?dangerColor=00F0FF&warningColor=00F0FF&color=00F0FF"/></td>
+    </tr>
+    <tr>
+      <td>🧪 <b>Quality & Load Testing</b></td>
+      <td>xUnit + WebApplicationFactory + k6 Benchmarks</td>
+      <td><code>Automated CI/CD</code></td>
+      <td align="center"><img src="https://geps.dev/progress/96?dangerColor=00F0FF&warningColor=00F0FF&color=00F0FF"/></td>
     </tr>
   </tbody>
 </table>
+
+</div>
 
 ---
 
 <div align="center">
 
-# 🛠️ `02 / ARCHITECTURAL STACK & TOOLING`
-
-<br/>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,redis,rabbitmq,docker,mssql,postgres,mongodb,git,github,postman,linux&perline=6&theme=dark" width="90%"/>
-</p>
+## 🛠️ `02 / ARCHITECTURAL ECOSYSTEM & CORE CAPABILITIES`
 
 <br/>
 
 <table width="100%">
   <tr style="background-color: #020617;">
-    <th align="center" width="50%"><font color="#00F0FF">BACKEND CORE & ARCHITECTURE</font></th>
-    <th align="center" width="50%"><font color="#7C3AED">DATA, QUEUES & SECURITY</font></th>
-  </tr>
-  <tr>
-    <td valign="top">
+    <td width="50%" valign="top">
+      <h3 align="center"><font color="#00F0FF">🏗️ CORE RUNTIME & APIS</font></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C%23_12-239120?style=flat-square&logo=csharp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/.NET_9-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SignalR-00F0FF?style=flat-square&logo=socketdotio&logoColor=black"/>
+      </p>
       <ul>
-        <li><b>Languages & Runtimes:</b> <code>C# 12</code>, <code>.NET 8 / 9</code></li>
-        <li><b>Web Frameworks:</b> <code>ASP.NET Core Web API</code>, <code>SignalR</code></li>
-        <li><b>Patterns:</b> <code>Clean Architecture</code>, <code>CQRS</code>, <code>DDD</code></li>
-        <li><b>Libraries:</b> <code>EF Core</code>, <code>Dapper</code>, <code>MediatR</code>, <code>Mapster</code></li>
+        <li><b>Performance:</b> High-throughput Async I/O, Kestrel tuning.</li>
+        <li><b>Mapping & Modern ORM:</b> Entity Framework Core, Dapper, Mapster.</li>
+        <li><b>Communication:</b> RESTful Web APIs, WebSockets (Realtime).</li>
       </ul>
     </td>
-    <td valign="top">
+    <td width="50%" valign="top">
+      <h3 align="center"><font color="#7C3AED">📐 PATTERNS & ARCHITECTURE</font></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Clean_Architecture-020617?style=flat-square&logo=diagram-next&logoColor=00F0FF"/>
+        <img src="https://img.shields.io/badge/CQRS-020617?style=flat-square&logo=diagram-next&logoColor=7C3AED"/>
+        <img src="https://img.shields.io/badge/DDD-020617?style=flat-square&logo=diagram-next&logoColor=00F0FF"/>
+      </p>
       <ul>
-        <li><b>Databases:</b> <code>SQL Server</code>, <code>PostgreSQL</code>, <code>MongoDB</code></li>
-        <li><b>Caching & Queues:</b> <code>Redis</code>, <code>RabbitMQ Message Bus</code></li>
-        <li><b>Security Core:</b> <code>OAuth 2.0</code>, <code>JWT</code>, <code>2FA / OTP</code>, <code>Rate Limiting</code></li>
-        <li><b>Testing & Metrics:</b> <code>xUnit</code>, <code>Moq</code>, <code>k6</code>, <code>Serilog</code></li>
+        <li><b>Architectural Styles:</b> Monoliths, Clean Architecture, CQRS with MediatR.</li>
+        <li><b>Domain Strategy:</b> Domain-Driven Design (DDD), SOLID Principles.</li>
+        <li><b>Scalability:</b> Event-Driven Architecture & Resiliency patterns.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr style="background-color: #020617;">
+    <td width="50%" valign="top">
+      <h3 align="center"><font color="#7C3AED">💾 DATA, CACHING & QUEUES</font></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
+      </p>
+      <ul>
+        <li><b>Relational & NoSQL:</b> SQL Server, PostgreSQL, MongoDB.</li>
+        <li><b>Distributed Messaging:</b> RabbitMQ Event Bus, Background Services.</li>
+        <li><b>Performance Layer:</b> Redis Distributed Caching & Pub/Sub.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><font color="#00F0FF">🛡️ SECURITY & TESTING SUITE</font></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/OAuth_2.0-000000?style=flat-square&logo=openid&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+        <img src="https://img.shields.io/badge/k6_Load_Testing-7D26CD?style=flat-square&logo=k6&logoColor=white"/>
+      </p>
+      <ul>
+        <li><b>Security Engine:</b> OAuth 2.0, OpenID Connect, JWT, 2FA/OTP, Rate Limiting.</li>
+        <li><b>Automated Testing:</b> xUnit, NUnit, Moq, FluentAssertions.</li>
+        <li><b>Integration & Load:</b> WebApplicationFactory, k6 Benchmarking.</li>
       </ul>
     </td>
   </tr>
@@ -128,24 +164,35 @@ readme = r'''<div align="center">
 
 <div align="center">
 
-# 📊 `03 / GITHUB ENGINE METRICS`
+## 📊 `03 / LIVE ENGINE ANALYTICS & ACTIVITY GRID`
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nour7Tohamy&bg_color=020617&color=00F0FF&line=0891B2&point=FFFFFF&area=true&hide_border=true" width="96%"/>
+<!-- REALTIME COMMIT ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nour7Tohamy&bg_color=020617&color=00F0FF&line=0891B2&point=FFFFFF&area=true&hide_border=true" width="98%" alt="Nour Tohamy Activity Graph"/>
 
 <br/><br/>
 
+<!-- STATS & LANGUAGES CARDS -->
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Nour7Tohamy&show_icons=true&hide_border=true&bg_color=020617&title_color=00F0FF&icon_color=7C3AED&text_color=FFFFFF&count_private=true" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Nour7Tohamy&show_icons=true&hide_border=true&bg_color=020617&title_color=00F0FF&icon_color=7C3AED&text_color=FFFFFF&border_radius=8&count_private=true" width="100%" alt="GitHub Stats"/>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nour7Tohamy&layout=compact&hide_border=true&bg_color=020617&title_color=00F0FF&text_color=FFFFFF" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nour7Tohamy&layout=compact&hide_border=true&bg_color=020617&title_color=00F0FF&text_color=FFFFFF&border_radius=8" width="100%" alt="Top Languages"/>
     </td>
   </tr>
 </table>
+
+<br/>
+
+<!-- SYSTEM METRICS SUMMARY BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Code_Quality-Clean_Architecture-00F0FF?style=for-the-badge&logo=codefactor&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Primary_Language-C%23_.NET-7C3AED?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Building_Scalable_Backends-10B981?style=for-the-badge&logo=statuspage&logoColor=white"/>
+</p>
 
 </div>
 

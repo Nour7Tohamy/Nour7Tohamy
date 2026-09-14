@@ -1,28 +1,24 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,30:111827,55:312E81,75:06B6D4,100:22D3EE&height=280&section=header&text=NOUR%20TOHAMY&fontSize=72&fontColor=FFFFFF&fontAlignY=38&desc=BACKEND%20%E2%80%A2%20.NET%20%E2%80%A2%20ENGINEERING&descAlignY=62&descSize=20&descColor=67E8F9&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:111827,65:312E81,85:06B6D4,100:22D3EE&height=260&section=header&text=NOUR%20TOHAMY&fontSize=68&fontColor=FFFFFF&fontAlignY=38&desc=BACKEND%20%E2%80%A2%20.NET%20%E2%80%A2%20ENGINEER&descAlignY=61&descSize=21&descColor=67E8F9&animation=fadeIn"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=700&color=67E8F9&center=true&vCenter=true&width=850&height=60&lines=I+BUILD+BACKENDS+THAT+SCALE+%F0%9F%9A%80;C%23+%7C+.NET+%7C+SQL+%7C+REDIS+%7C+RABBITMQ;TESTING+IS+NOT+OPTIONAL+%F0%9F%A7%AA;TURNING+IDEAS+INTO+PRODUCTION-READY+SYSTEMS;WELCOME+TO+MY+DIGITAL+LAB+%F0%9F%8C%90" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2200&pause=800&color=67E8F9&center=true&vCenter=true&width=800&height=55&lines=Building+Scalable+Backend+Systems+%F0%9F%9A%80;C%23+%7C+.NET+%7C+SQL+%7C+Redis;Testing+%7C+Performance+%7C+Security;Always+Learning.+Always+Building." alt="Typing SVG"/>
 
 <br/><br/>
 
 <a href="https://github.com/Nour7Tohamy">
-<img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=67E8F9"/>
+<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=67E8F9"/>
 </a>
-&nbsp;
 <a href="https://www.linkedin.com/in/Nour-Tohamy-a4763a350/">
-<img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=67E8F9"/>
+<img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=67E8F9"/>
 </a>
-&nbsp;
 <a href="mailto:nour.tohamy.dev@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-050505?style=for-the-badge&logo=gmail&logoColor=67E8F9"/>
+<img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=67E8F9"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Nour7Tohamy&style=for-the-badge&color=06B6D4&label=VISITORS"/>
+<img src="https://komarev.com/ghpvc/?username=Nour7Tohamy&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -30,120 +26,65 @@
 
 <div align="center">
 
-## ◈ DIGITAL IDENTITY ◈
+## ⚡ BACKEND ENGINEER
 
-### `NOUR.TOHAMY`
-
-**Backend Engineer • .NET Developer • Builder**
+**Building reliable backend systems with a focus on scalability, performance, security, and clean code.**
 
 <br/>
 
-> *Building the systems behind the systems.*
-
-</div>
-
-<br/>
-
-<div align="center">
-
-|   ⚡ BACKEND  |      🧪 QUALITY     |  🚀 PERFORMANCE  | 🔐 SECURITY |
-| :----------: | :-----------------: | :--------------: | :---------: |
-| ASP.NET Core |     Unit Testing    | Async / Parallel |     JWT     |
-|   REST APIs  | Integration Testing |       Redis      |  OAuth 2.0  |
-|   C# / .NET  |         Moq         | SQL Optimization |  2FA / OTP  |
-|    EF Core   |   FluentAssertions  |   Load Testing   |   Identity  |
+`C#` · `ASP.NET Core` · `EF Core` · `SQL Server`
+`Redis` · `RabbitMQ` · `SignalR` · `MediatR` · `Docker`
 
 </div>
 
 ---
 
+## 🧬 Tech Stack
+
 <div align="center">
-
-# ⚡ TECH UNIVERSE
-
-### `THE STACK I SPEAK`
-
-<br/>
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,redis,rabbitmq,docker,mssql,postgres,mongodb,git,github,postman&perline=11&theme=dark"/>
 
-<br/><br/>
-
-`C#` `ASP.NET Core` `EF Core` `SQL Server` `PostgreSQL` `Redis`
-`RabbitMQ` `SignalR` `MediatR` `Docker` `Git` `Postman`
-
 </div>
 
----
+<br/>
 
 <div align="center">
 
-# 🧬 CURRENT MODE
-
-```text
-BUILDING     ████████████████████████████████████████
-TESTING      ████████████████████████████████████████
-LEARNING     ████████████████████████████████████████
-EXPERIMENT   ████████████████████████████████████████
-```
-
-### `STATUS: ONLINE • LEARNING • BUILDING`
+|    Backend   |    Data    |      Engineering     |
+| :----------: | :--------: | :------------------: |
+| ASP.NET Core | SQL Server |  Clean Architecture  |
+|   REST APIs  | PostgreSQL |         CQRS         |
+|    SignalR   |   MongoDB  |         SOLID        |
+|    EF Core   |    Redis   |  Repository Pattern  |
+|    MediatR   |   Dapper   | Event-Driven Systems |
 
 </div>
 
 ---
 
-# 🛰️ PROJECTS IN ORBIT
+## 🚀 Selected Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 🎟️ DevPulse
+### 🎟️ Ticketing System
 
-### `HIGH-CONCURRENCY BACKEND`
+High-throughput ticketing backend focused on concurrency, performance, and reliability.
 
-A ticketing system designed around **concurrency, performance and reliability**.
-
-<br/>
-
-**CORE**
-
-`C#` `ASP.NET Core`
-`Redis` `RabbitMQ` `Docker`
-`Serilog` `Mapster`
-
-<br/>
-
-**MISSION**
-
-> Keep the system fast when everyone wants the same thing at the same time.
+`ASP.NET Core` `Redis` `RabbitMQ` `Docker`
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🏨 Hotel Engine
+### 🏨 Room Reservation Backend
 
-### `RESERVATION PLATFORM`
+Reservation system for rooms, availability, bookings, and business rules.
 
-Backend for managing rooms, reservations and business rules.
-
-<br/>
-
-**CORE**
-
-`ASP.NET Core`
-`Clean Architecture`
-`CQRS` `EF Core`
-`SQL Server`
-
-<br/>
-
-**MISSION**
-
-> Turn complicated booking rules into predictable backend logic.
+`ASP.NET Core` `CQRS` `EF Core` `SQL Server`
 
 </td>
 
@@ -153,49 +94,21 @@ Backend for managing rooms, reservations and business rules.
 
 <td width="50%" valign="top">
 
-## 💬 Real-Time
+### 💬 Real-Time Communication
 
-### `MESSAGING PLATFORM`
+Backend for live communication and real-time event delivery.
 
-A real-time communication backend built around persistent connections.
-
-<br/>
-
-**CORE**
-
-`SignalR` `WebSockets`
-`ASP.NET Core`
-`JWT` `SQL Server`
-
-<br/>
-
-**MISSION**
-
-> Messages should feel instant. The backend shouldn't.
+`SignalR` `WebSockets` `JWT`
 
 </td>
 
 <td width="50%" valign="top">
 
-## 📝 Exam Engine
+### 📝 Examination Platform
 
-### `AUTOMATED ASSESSMENT`
+Multi-role examination platform with automated grading and structured workflows.
 
-A multi-role examination platform with automated grading.
-
-<br/>
-
-**CORE**
-
-`ASP.NET Core`
-`EF Core` `Identity`
-`SQL Server`
-
-<br/>
-
-**MISSION**
-
-> Automate the boring stuff. Keep the important stuff human.
+`ASP.NET Core` `EF Core` `Identity`
 
 </td>
 
@@ -204,22 +117,31 @@ A multi-role examination platform with automated grading.
 
 ---
 
+## 🧪 Testing & Quality
+
 <div align="center">
 
-# 🧪 BUGS DON'T GET A FREE PASS
-
-<br/>
-
-<img src="https://img.shields.io/badge/UNIT_TESTING-00E5FF?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/INTEGRATION-7C3AED?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/API_TESTING-06B6D4?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/MOCKING-22D3EE?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/PERFORMANCE-8B5CF6?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/NUnit-050505?style=for-the-badge&logo=nunit&logoColor=67E8F9"/>
+<img src="https://img.shields.io/badge/xUnit-050505?style=for-the-badge&logo=xunit&logoColor=67E8F9"/>
+<img src="https://img.shields.io/badge/Moq-050505?style=for-the-badge&logoColor=67E8F9"/>
+<img src="https://img.shields.io/badge/FluentAssertions-050505?style=for-the-badge&logoColor=67E8F9"/>
+<img src="https://img.shields.io/badge/k6-050505?style=for-the-badge&logo=k6&logoColor=67E8F9"/>
 
 <br/><br/>
 
-`NUnit` · `xUnit` · `Moq` · `FluentAssertions`
-`WebApplicationFactory` · `HttpClient` · `EF Core InMemory` · `k6`
+`Unit Testing` · `Integration Testing` · `API Testing`
+`Mocking` · `WebApplicationFactory` · `HttpClient` · `EF Core InMemory` · `Load Testing`
+
+</div>
+
+---
+
+## 🔐 Security
+
+<div align="center">
+
+`JWT` · `OAuth 2.0` · `OpenID Connect` · `ASP.NET Identity`
+`OTP` · `2FA` · `Dynamic Authorization` · `Rate Limiting`
 
 </div>
 
@@ -227,31 +149,39 @@ A multi-role examination platform with automated grading.
 
 <div align="center">
 
-# 🌌 WHAT I'M EXPLORING
+## 📡 CURRENTLY BUILDING
+
+### `BACKEND • TESTING • PERFORMANCE • SYSTEM DESIGN`
 
 <br/>
 
-### `SYSTEM DESIGN`　`PERFORMANCE`　`DISTRIBUTED SYSTEMS`
-
-### `DOCKER`　`MESSAGING`　`CACHING`
+**Learning → Building → Testing → Improving → Repeating**
 
 <br/>
 
-> **Today's experiment becomes tomorrow's production skill.**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&height=40&lines=Code+is+easy.+Systems+are+interesting.;Make+it+work.+Make+it+clean.+Make+it+scale." alt="Developer Quote"/>
 
 </div>
 
 ---
 
+## 👨‍🏫 Teaching & Mentorship
+
+**DECI — Technical Instructor**
+Software Engineering · Databases · Security
+
+**eYouth Academy — Technical Mentor**
+Backend Development · Code Reviews · Real-World Projects
+
+---
+
 <div align="center">
 
-# 📡 GITHUB SIGNAL
+## 📊 GitHub
 
-<br/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nour7Tohamy&show_icons=true&hide_border=true&bg_color=050505&title_color=67E8F9&icon_color=7C3AED&text_color=FFFFFF"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Nour7Tohamy&show_icons=true&hide_border=true&bg_color=050505&title_color=67E8F9&icon_color=7C3AED&text_color=FFFFFF&ring_color=06B6D4"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nour7Tohamy&layout=compact&hide_border=true&bg_color=050505&title_color=67E8F9&text_color=FFFFFF"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nour7Tohamy&layout=compact&hide_border=true&bg_color=050505&title_color=67E8F9&text_color=FFFFFF"/>
 
 <br/><br/>
 
@@ -263,79 +193,14 @@ A multi-role examination platform with automated grading.
 
 <div align="center">
 
-# 🐍 CONTRIBUTION MATRIX
-
-<img src="https://raw.githubusercontent.com/Nour7Tohamy/Nour7Tohamy/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 👨‍🏫 KNOWLEDGE TRANSFER
-
-<br/>
-
-### DECI
-
-`Technical Instructor`
-
-### eYouth Academy
-
-`Technical Mentor`
-
-<br/>
-
-**Teaching Software Engineering • Backend • Databases • Security**
-
-</div>
-
----
-
-<div align="center">
-
-# 💭 RANDOM THOUGHT
-
-<br/>
-
-### *"First make it work.*
-
-### *Then make it right.*
-
-### *Then make it fast."*
-
-<br/>
-
-`— The Developer Loop`
-
-</div>
-
----
-
-<div align="center">
-
-# 🔮 NEXT TRANSMISSION
-
-<br/>
-
-**More projects.**
-**More experiments.**
-**More backend.**
-**More .NET.**
-
-<br/>
-
-### `SEE YOU IN PRODUCTION 🚀`
-
-<br/>
-
-<a href="https://github.com/Nour7Tohamy">
-<img src="https://img.shields.io/badge/ENTER_MY_GITHUB-050505?style=for-the-badge&logo=github&logoColor=67E8F9"/>
-</a>
+<img src="https://raw.githubusercontent.com/Nour7Tohamy/Nour7Tohamy/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,25:06B6D4,50:7C3AED,75:312E81,100:050505&height=150&section=footer"/>
+### ⚡ Build. Test. Improve. Repeat.
+
+<a href="https://github.com/Nour7Tohamy">
+<img src="https://img.shields.io/badge/EXPLORE_MY_WORK-050505?style=for-the-badge&logo=github&logoColor=67E8F9"/>
+</a>
 
 </div>

@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080014,25:512BD4,55:7C3AED,80:00BFFF,100:00E5FF&height=250&section=header&text=NOUR%20TOHAMY&fontSize=65&fontColor=FFFFFF&fontAlignY=35&desc=THE%20BACK-END%20ARCHITECT&descAlignY=55&descSize=23&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080014,25:512BD4,55:7C3AED,80:00BFFF,100:00E5FF&height=250&section=header&text=NOUR%20TOHAMY&fontSize=65&fontColor=FFFFFF&fontAlignY=35&desc=BACK-END%20.NET%20DEVELOPER&descAlignY=55&descSize=23&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=600&color=00E5FF&center=true&vCenter=true&width=800&lines=%E2%9A%A1+C%23+%2F+.NET+EXPERT;%F0%9F%8F%97%EF%B8%8F+CLEAN+ARCHITECTURE+%2F+CQRS;%F0%9F%94%90+JWT+%2F+OAUTH+%2F+2FA+SECURITY;%F0%9F%9A%80+REAL-TIME+SIGNALR+%2F+REDIS;CONVERTING+LOGIC+INTO+SCALABLE+APIS." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=600&color=00E5FF&center=true&vCenter=true&width=800&lines=%F0%9F%92%BB+C%23+%2F+.NET+CORE;%F0%9F%8F%97%EF%B8%8F+CLEAN+ARCHITECTURE+%2F+CQRS;%F0%9F%94%90+JWT+%2F+OAUTH+%2F+2FA+SECURITY;%F0%9F%9A%80+REAL-TIME+SIGNALR+%2F+REDIS;BUILDING+SYSTEMS+THAT+SCALE." alt="Typing SVG"/>
 
 <br/>
 
@@ -28,7 +28,8 @@
 
 <div align="center">
 
-**Back-End .NET Developer** crafting robust APIs, scalable distributed systems, and real-time backend infrastructure.
+Backend .NET Developer focused on **Clean Architecture**, **CQRS**, and building APIs that stay reliable under real-world load — not just in demos.
+I care about systems that hold up under concurrency, scale predictably, and stay maintainable as they grow.
 
 <img src="https://img.shields.io/badge/FOCUS-BACKEND%20SYSTEMS-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/MINDSET-ARCHITECTURE%20FIRST-00BFFF?style=for-the-badge"/>
@@ -38,24 +39,24 @@
 
 <br/>
 
-## 🛠️ Technical Superpowers
+## 🛠️ Core Skills
 
 <table align="center">
 <tr>
 <td align="center" width="25%"><b>Architecture</b></td>
-<td>Clean Architecture · CQRS · MediatR · SOLID</td>
+<td>Clean Architecture · CQRS · MediatR · Repository Pattern · SOLID</td>
 </tr>
 <tr>
 <td align="center"><b>Data</b></td>
-<td>SQL Server · PostgreSQL · MongoDB · Redis</td>
+<td>SQL Server · PostgreSQL · MongoDB · Redis · EF Core</td>
 </tr>
 <tr>
 <td align="center"><b>Security</b></td>
-<td>JWT · OAuth 2.0 · OTP · 2FA</td>
+<td>JWT · OAuth 2.0 · Role-Based Authorization · OTP · 2FA</td>
 </tr>
 <tr>
 <td align="center"><b>Real-Time</b></td>
-<td>SignalR · WebSockets · Background Services · Distributed Caching</td>
+<td>SignalR · WebSockets · Background Jobs (Hangfire) · Distributed Caching</td>
 </tr>
 </table>
 
@@ -67,31 +68,31 @@
 
 <br/>
 
-## 🎯 Development Approach
+## 🎯 How I Work
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/API%20DEVELOPMENT-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API%20DESIGN-512BD4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SCALABLE%20ARCHITECTURE-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ADVANCED%20SECURITY-DC2626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SECURITY%20BY%20DESIGN-DC2626?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/REAL--TIME%20SYSTEMS-00BFFF?style=for-the-badge"/>
 <br/><br/>
 <img src="https://img.shields.io/badge/CLEAN%20CODE-0891B2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PERFORMANCE%20OPTIMIZATION-334155?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TESTING-B91C1C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PERFORMANCE%20TUNING-334155?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TEST%20COVERAGE-B91C1C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/CI%2FCD-B91C1C?style=for-the-badge"/>
 
 </div>
 
 <br/>
 
-## 🚀 Project Highlights
+## 🚀 What I Build
 
 <div align="center">
 
-**🛒 E-Commerce APIs&nbsp; · &nbsp;🏨 Hotel Management Systems&nbsp; · &nbsp;💬 Real-Time Chat Services&nbsp; · &nbsp;🔐 Identity Providers**
+**🛒 E-Commerce APIs&nbsp; · &nbsp;🏨 Reservation Systems&nbsp; · &nbsp;💬 Real-Time Chat Platforms&nbsp; · &nbsp;🔐 Identity & Auth Providers**
 
-.NET is my specialized stack — I build robust backend solutions that power modern applications.
+.NET is my core stack — I focus on backend systems where correctness under concurrency and long-term maintainability matter as much as shipping fast.
 
 <a href="https://github.com/Nour7Tohamy?tab=repositories">
   <img src="https://img.shields.io/badge/→%20EXPLORE%20ALL%20REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
@@ -108,7 +109,7 @@
 <img src="https://img.shields.io/badge/eYouth%20Academy-MENTOR-512BD4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DECI-INSTRUCTOR-00D4FF?style=for-the-badge"/>
 
-**Learning → Building → Sharing**
+Learning → Building → Sharing with others along the way.
 
 </div>
 
@@ -148,8 +149,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=BUILD.%20BREAK.%20FIX.%20SHIP.%20REPEAT.&fontSize=28&fontColor=00E5FF&fontAlignY=50&animation=fadeIn"/>
-
-### `THE BACK-END ARCHITECT`
 
 <br/>
 

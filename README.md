@@ -1,24 +1,34 @@
 <div align="center">
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                       SYSTEM BOOT                             ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                           HEADER                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=050505&custom_color_2=eab308&height=300&section=header&text=NOUR%20TOHAMY&fontSize=76&fontColor=ffffff&fontAlignY=38&desc=%E2%9A%A1%20BACKEND%20.NET%20DEVELOPER%20%7C%20API%20ENGINEERING%20%7C%20SYSTEM%20DESIGN&descAlignY=58&descSize=17&descColor=fef08a&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=05070D&custom_color_2=EAB308&height=290&section=header&text=NOUR%20TOHAMY&fontSize=72&fontColor=FFFFFF&fontAlignY=35&desc=BACKEND%20.NET%20DEVELOPER%20%7C%20API%20ENGINEER&descAlignY=56&descSize=18&descColor=FEF08A&animation=twinkling"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=17&duration=1800&pause=600&color=EAB308&center=true&vCenter=true&width=950&height=45&lines=%3E+Initializing+.NET+Backend+Environment...;%3E+Clean+Architecture+%2B+CQRS+%2B+SOLID;%3E+Engineering+Secure+RESTful+APIs;%3E+Building+Real-Time+Systems+with+SignalR;%3E+Unit+%2B+Integration+%2B+API+%2B+Performance+Testing;%3E+BUILDING+SYSTEMS%2C+NOT+JUST+ENDPOINTS." alt="Terminal"/>
+<a href="https://github.com/Nour7Tohamy">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=700&color=EAB308&center=true&vCenter=true&width=950&height=50&lines=Building+Secure+%26+Maintainable+.NET+Backend+Systems;Clean+Architecture+%7C+CQRS+%7C+MediatR+%7C+SOLID;JWT+%7C+2FA+%7C+OTP+%7C+OAuth+2.0;SignalR+%7C+Hangfire+%7C+Background+Processing;Unit+%7C+Integration+%7C+API+Testing;Exploring+Backend+Performance+Engineering" alt="Typing SVG"/>
+</a>
 
 <br/><br/>
 
-<a href="https://github.com/Nour7Tohamy"><img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=eab308"/></a>
-<a href="https://www.linkedin.com/in/Nour-Tohamy-a4763a350/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
-<a href="mailto:nreda8386@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff"/></a>
+<a href="https://github.com/Nour7Tohamy">
+<img src="https://img.shields.io/badge/GitHub-05070D?style=for-the-badge&logo=github&logoColor=EAB308"/>
+</a>
+
+<a href="https://www.linkedin.com/in/Nour-Tohamy-a4763a350/">
+<img src="https://img.shields.io/badge/LinkedIn-05070D?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="mailto:nreda8386@gmail.com">
+<img src="https://img.shields.io/badge/Email-05070D?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Nour7Tohamy&style=for-the-badge&color=eab308&label=SYSTEM+VISITS"/>
+<img src="https://komarev.com/ghpvc/?username=Nour7Tohamy&style=for-the-badge&color=EAB308&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -28,69 +38,71 @@
 
 <br/><br/>
 
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         01 / CORE                               -->
+<!--                     01 / CORE SYSTEM                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-# 👑 01 / BACKEND CORE
+## 👑 01 / BACKEND ENGINEERING CORE
 
 <div align="center">
 
 <table width="100%">
 <tr>
 
-<td width="25%" align="center">
-<img src="https://img.icons8.com/fluency/96/api-settings.png" width="65"/>
+<td align="center" width="25%">
 
-### API ENGINEERING
-ASP.NET Core<br/>Web API<br/>MVC<br/>RESTful APIs
-</td>
+<h3>⚡ API ENGINEERING</h3>
 
-<td width="25%" align="center">
-<img src="https://img.icons8.com/fluency/96/module.png" width="65"/>
-
-### ARCHITECTURE
-Clean Architecture<br/>CQRS<br/>MediatR<br/>Repository Pattern<br/>SOLID
-</td>
-
-<td width="25%" align="center">
-<img src="https://img.icons8.com/fluency/96/security-checked.png" width="65"/>
-
-### SECURITY
-ASP.NET Identity<br/>JWT<br/>2FA<br/>OTP<br/>OAuth 2.0<br/>Email Verification
-</td>
-
-<td width="25%" align="center">
-<img src="https://img.icons8.com/fluency/96/test-passed.png" width="65"/>
-
-### QUALITY
-Unit Testing<br/>Integration Testing<br/>API Testing<br/>Performance Testing<br/>Mocking
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td align="center">
-
-## ⚡ ENGINEERING PRINCIPLES
-
-<img src="https://img.shields.io/badge/DRY-EAB308?style=for-the-badge&labelColor=111111"/>
-<img src="https://img.shields.io/badge/KISS-EAB308?style=for-the-badge&labelColor=111111"/>
-<img src="https://img.shields.io/badge/YAGNI-EAB308?style=for-the-badge&labelColor=111111"/>
-<img src="https://img.shields.io/badge/SOLID-EAB308?style=for-the-badge&labelColor=111111"/>
-
-<br/><br/>
-
-Design simple systems.<br/>
-Keep business logic clear.<br/>
-Avoid unnecessary complexity.<br/>
-Build for maintainability.
+ASP.NET Core<br/>
+Web API<br/>
+MVC<br/>
+RESTful APIs<br/>
+CORS<br/>
+Rate Limiting
 
 </td>
+
+<td align="center" width="25%">
+
+<h3>🏗️ ARCHITECTURE</h3>
+
+Clean Architecture<br/>
+CQRS<br/>
+MediatR<br/>
+Repository Pattern<br/>
+SOLID<br/>
+DRY · KISS · YAGNI
+
+</td>
+
+<td align="center" width="25%">
+
+<h3>🛡️ SECURITY</h3>
+
+ASP.NET Identity<br/>
+JWT Authentication<br/>
+Role-Based Authorization<br/>
+Dynamic Authorization<br/>
+2FA<br/>
+OTP<br/>
+OAuth 2.0
+
+</td>
+
+<td align="center" width="25%">
+
+<h3>🧪 QUALITY</h3>
+
+Unit Testing<br/>
+Integration Testing<br/>
+API Testing<br/>
+Mocking<br/>
+HTTP Testing<br/>
+Performance Testing
+
+</td>
+
 </tr>
 </table>
 
@@ -98,406 +110,177 @@ Build for maintainability.
 
 <br/>
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-<br/><br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    02 / TECH STACK                              -->
+<!--                     02 / TECH STACK                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-# 🛠️ 02 / TECH STACK MATRIX
-
-<br/>
+## 🛠️ 02 / TECH STACK MATRIX
 
 <div align="center">
 
 <table width="100%">
-
-<!-- ROW 1 -->
 <tr>
 
-<td width="50%" valign="top">
-<table width="100%">
-<tr>
-<td align="center">
+<td align="center" valign="top" width="50%">
 
-<img src="https://img.icons8.com/fluency/96/source-code.png" width="55"/>
+### 💻 CORE BACKEND
 
-## ⚡ LANGUAGE & RUNTIME
+<br/>
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet" height="65"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio&theme=dark"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web%20API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 
-</td>
-</tr>
-</table>
-</td>
+<br/>
 
-<td width="50%" valign="top">
-<table width="100%">
-<tr>
-<td align="center">
-
-<img src="https://img.icons8.com/fluency/96/server.png" width="55"/>
-
-## 🌐 BACKEND
-
-<img src="https://skillicons.dev/icons?i=dotnet" height="65"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/RESTful%20APIs-0EA5E9?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
 </td>
-</tr>
-</table>
+
+<td align="center" valign="top" width="50%">
+
+### 🏗️ ARCHITECTURE & DESIGN
+
+<br/>
+
+<img src="https://img.shields.io/badge/Clean%20Architecture-111827?style=for-the-badge&logo=code&logoColor=EAB308"/>
+<img src="https://img.shields.io/badge/CQRS-111827?style=for-the-badge&logo=databricks&logoColor=EAB308"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/MediatR-111827?style=for-the-badge&logo=dotnet&logoColor=EAB308"/>
+<img src="https://img.shields.io/badge/Repository%20Pattern-111827?style=for-the-badge&logo=code&logoColor=EAB308"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/SOLID-111827?style=for-the-badge&logo=solid&logoColor=EAB308"/>
+
 </td>
 
 </tr>
 
-<!-- ROW 2 -->
 <tr>
 
-<td width="50%" valign="top">
-<table width="100%">
-<tr>
-<td align="center">
+<td align="center" valign="top">
 
-<img src="https://img.icons8.com/fluency/96/layers.png" width="55"/>
+### 💾 DATA & PERSISTENCE
 
-## 🏗️ ARCHITECTURE
+<br/>
 
-<img src="https://img.icons8.com/color/96/code-fork.png" width="52"/>
-<img src="https://img.icons8.com/color/96/design.png" width="52"/>
-<img src="https://img.icons8.com/color/96/flow-chart.png" width="52"/>
+<img src="https://skillicons.dev/icons?i=sqlserver&theme=dark"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Clean_Architecture-2496ED?style=for-the-badge&logo=onlyoffice&logoColor=white"/>
-<img src="https://img.shields.io/badge/CQRS-6E40C9?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/MediatR-8250DF?style=for-the-badge&logo=mediumm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Repository_Pattern-2D3748?style=for-the-badge&logo=hive&logoColor=white"/>
-<img src="https://img.shields.io/badge/SOLID-EAB308?style=for-the-badge&logo=solid&logoColor=black"/>
-
-</td>
-</tr>
-</table>
-</td>
-
-<td width="50%" valign="top">
-<table width="100%">
-<tr>
-<td align="center">
-
-<img src="https://img.icons8.com/fluency/96/database.png" width="55"/>
-
-## 💾 DATA LAYER
-
-<img src="https://skillicons.dev/icons?i=sqlserver" height="65"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 
-</td>
-</tr>
-</table>
-</td>
+<br/>
 
-</tr>
-
-<!-- ROW 3 -->
-<tr>
-
-<td width="50%" valign="top">
-<table width="100%">
-<tr>
-<td align="center">
-
-<img src="https://img.icons8.com/fluency/96/security-checked.png" width="55"/>
-
-## 🔐 SECURITY
-
-<img src="https://img.icons8.com/color/96/key.png" width="48"/>
-<img src="https://img.icons8.com/color/96/verified-account.png" width="48"/>
-<img src="https://img.icons8.com/color/96/lock.png" width="48"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/ASP.NET_Identity-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/OAuth_2.0-3423A6?style=for-the-badge&logo=auth0&logoColor=white"/>
-<img src="https://img.shields.io/badge/2FA-4CAF50?style=for-the-badge&logo=authy&logoColor=white"/>
-<img src="https://img.shields.io/badge/OTP-FF9800?style=for-the-badge&logo=keycdn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Database%20Design-111827?style=for-the-badge&logo=databricks&logoColor=EAB308"/>
 
 </td>
-</tr>
-</table>
-</td>
 
-<td width="50%" valign="top">
-<table width="100%">
-<tr>
-<td align="center">
+<td align="center" valign="top">
 
-<img src="https://img.icons8.com/fluency/96/synchronize.png" width="55"/>
+### 🔐 SECURITY & IDENTITY
 
-## 📡 REAL-TIME & JOBS
+<br/>
 
-<img src="https://img.icons8.com/color/96/signalr.png" width="52"/>
-<img src="https://img.icons8.com/color/96/time-machine.png" width="52"/>
-<img src="https://img.icons8.com/color/96/flash-on.png" width="52"/>
+<img src="https://img.shields.io/badge/ASP.NET%20Identity-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://img.shields.io/badge/SignalR-00ADD8?style=for-the-badge&logo=socketdotio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hangfire-1E88E5?style=for-the-badge&logo=clockify&logoColor=white"/>
-<img src="https://img.shields.io/badge/MemoryCache-512BD4?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Serilog-2E7D32?style=for-the-badge&logo=logstash&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-111827?style=for-the-badge&logo=jsonwebtokens&logoColor=EAB308"/>
+<img src="https://img.shields.io/badge/2FA-111827?style=for-the-badge&logo=authy&logoColor=EAB308"/>
 
-</td>
-</tr>
-</table>
+<br/>
+
+<img src="https://img.shields.io/badge/OTP-111827?style=for-the-badge&logo=key&logoColor=EAB308"/>
+<img src="https://img.shields.io/badge/OAuth%202.0-111827?style=for-the-badge&logo=openid&logoColor=EAB308"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Email%20Verification-111827?style=for-the-badge&logo=gmail&logoColor=EAB308"/>
+
 </td>
 
 </tr>
 
-<!-- ROW 4 -->
 <tr>
 
-<td width="50%" valign="top">
-<table width="100%">
-<tr>
-<td align="center">
+<td align="center" valign="top">
 
-<img src="https://img.icons8.com/fluency/96/test-passed.png" width="55"/>
+### 📡 REAL-TIME & BACKGROUND
 
-## 🧪 TESTING
+<br/>
 
-<img src="https://img.icons8.com/color/96/nunit.png" width="50"/>
-<img src="https://img.icons8.com/color/96/test-tube.png" width="50"/>
-<img src="https://img.icons8.com/color/96/bug.png" width="50"/>
+<img src="https://img.shields.io/badge/SignalR-111827?style=for-the-badge&logo=signalr&logoColor=EAB308"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Hangfire-111827?style=for-the-badge&logo=clockify&logoColor=EAB308"/>
+<img src="https://img.shields.io/badge/MemoryCache-111827?style=for-the-badge&logo=memory&logoColor=EAB308"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/BackgroundService-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/CancellationToken-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+
+</td>
+
+<td align="center" valign="top">
+
+### 🧪 TESTING & QUALITY
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=postman,swagger&theme=dark"/>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/NUnit-25A162?style=for-the-badge&logo=nunit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Moq-8E24AA?style=for-the-badge&logo=mocha&logoColor=white"/>
+<img src="https://img.shields.io/badge/Moq-111827?style=for-the-badge&logo=code&logoColor=EAB308"/>
+
+<br/>
+
 <img src="https://img.shields.io/badge/WebApplicationFactory-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Integration_Testing-0EA5E9?style=for-the-badge&logo=testinglibrary&logoColor=white"/>
-<img src="https://img.shields.io/badge/Performance_Testing-8B5CF6?style=for-the-badge&logo=speedtest&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/EF%20Core%20InMemory-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/HttpClient-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 
 </td>
+
 </tr>
-</table>
-</td>
 
-<td width="50%" valign="top">
-<table width="100%">
 <tr>
+
 <td align="center">
 
-<img src="https://img.icons8.com/fluency/96/development-skill.png" width="55"/>
-
-## 🔧 DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=git,github,visualstudio,postman" height="65"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
-
-</td>
-</tr>
-</table>
-</td>
-
-</tr>
-
-</table>
-
-</div>
+### 📋 LOGGING
 
 <br/>
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+<img src="https://img.shields.io/badge/Serilog-111827?style=for-the-badge&logo=logstash&logoColor=EAB308"/>
 
-<br/><br/>
+</td>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    03 / PROJECTS                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-# 🚀 03 / FEATURED SYSTEMS
-
-<br/>
-
-<div align="center">
-
-<!-- EXAM -->
-<table width="100%">
-<tr>
 <td align="center">
 
-<img src="https://img.icons8.com/fluency/96/graduation-cap.png" width="70"/>
-
-## 🎓 EXAMINATION SYSTEM
-**Multi-Role Examination Platform**
-
-A backend system built around instructors, students,
-automated grading, reusable question banks, and secure access control.
+### 🔧 DEVELOPMENT TOOLS
 
 <br/>
 
-```mermaid
-graph LR
-    A["👨‍🏫 Instructor"] --> API["🌐 ASP.NET Core API"]
-    B["🎓 Student"] --> API
-    API --> AUTH["🔐 JWT Authentication"]
-    AUTH --> RBAC["🛡️ Role-Based Authorization"]
-    API --> QB["🧠 Question Bank"]
-    QB --> BAL["⚖️ Difficulty Balancing"]
-    BAL --> EXAM["📝 Exam Engine"]
-    EXAM --> GRADE["⚙️ Automated Grading"]
-    GRADE --> DB[("💾 Database")]
-
-    style API fill:#1e1b4b,stroke:#eab308,color:#fff
-    style AUTH fill:#451a03,stroke:#f97316,color:#fff
-    style RBAC fill:#451a03,stroke:#f97316,color:#fff
-    style QB fill:#064e3b,stroke:#10b981,color:#fff
-    style BAL fill:#064e3b,stroke:#10b981,color:#fff
-    style EXAM fill:#064e3b,stroke:#10b981,color:#fff
-    style GRADE fill:#0284c7,stroke:#38bdf8,color:#fff
-    style DB fill:#0f172a,stroke:#eab308,color:#fff
-```
-
-<br/>
-
-<img src="https://img.shields.io/badge/AUTOMATED_GRADING-10b981?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MULTI_ROLE-eab308?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JWT_SECURITY-8b5cf6?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio&theme=dark"/>
 
 </td>
-</tr>
-</table>
 
-<br/>
-
-<!-- HOTEL -->
-<table width="100%">
-<tr>
-<td align="center">
-
-<img src="https://img.icons8.com/fluency/96/hotel.png" width="70"/>
-
-## 🏨 HOTEL RESERVATION SYSTEM
-**Clean Architecture + CQRS**
-
-Reservation backend focused on transactional booking,
-room availability, authorization, caching, and optimized data access.
-
-<br/>
-
-```mermaid
-graph LR
-    USER["👤 Customer"] --> API["🌐 REST API"]
-    STAFF["👨‍💼 Staff"] --> API
-    API --> CQRS["⚡ CQRS"]
-    CQRS --> APP["🏗️ Application Layer"]
-    APP --> BOOK["🏨 Booking Engine"]
-    BOOK --> TX["🔒 Transactional Booking"]
-    APP --> AUTH["🛡️ Authorization"]
-    API --> CACHE["⚡ Cache"]
-    CACHE --> DB[("💾 SQL Server")]
-    TX --> DB
-    DB --> AV["📡 Availability"]
-
-    style API fill:#1e1b4b,stroke:#eab308,color:#fff
-    style CQRS fill:#064e3b,stroke:#10b981,color:#fff
-    style APP fill:#064e3b,stroke:#10b981,color:#fff
-    style BOOK fill:#0284c7,stroke:#38bdf8,color:#fff
-    style TX fill:#451a03,stroke:#f97316,color:#fff
-    style AUTH fill:#451a03,stroke:#f97316,color:#fff
-    style CACHE fill:#451a03,stroke:#f97316,color:#fff
-    style DB fill:#0f172a,stroke:#eab308,color:#fff
-    style AV fill:#0284c7,stroke:#38bdf8,color:#fff
-```
-
-<br/>
-
-<img src="https://img.shields.io/badge/CLEAN_ARCHITECTURE-eab308?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CQRS-8b5cf6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TRANSACTIONAL_BOOKING-10b981?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PERFORMANCE-~15%25-0ea5e9?style=for-the-badge"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- CHAT -->
-<table width="100%">
-<tr>
-<td align="center">
-
-<img src="https://img.icons8.com/fluency/96/chat.png" width="70"/>
-
-## 📡 REAL-TIME CHAT SYSTEM
-**ASP.NET Core MVC + SignalR + Clean Architecture**
-
-Real-time communication system supporting private messaging,
-group rooms, voice messages, notifications, and live user presence.
-
-<br/>
-
-```mermaid
-graph LR
-    USER["👤 User"] --> MVC["🌐 ASP.NET Core MVC"]
-    MVC --> AUTH["🔐 JWT / Cookie Authentication"]
-    MVC --> HUB["📡 SignalR Hub"]
-    HUB --> PRIVATE["💬 Private Messages"]
-    HUB --> GROUP["👥 Group Rooms"]
-    HUB --> VOICE["🎙️ Voice Messages"]
-    HUB --> PRESENCE["🟢 Presence Engine"]
-    PRESENCE --> MEMORY["⚡ ConcurrentDictionary"]
-    HUB --> NOTIFY["🔔 Notifications"]
-    MVC --> CLEAN["🏗️ Clean Architecture"]
-    CLEAN --> EF["💾 EF Core"]
-
-    style MVC fill:#1e1b4b,stroke:#eab308,color:#fff
-    style AUTH fill:#451a03,stroke:#f97316,color:#fff
-    style HUB fill:#0284c7,stroke:#38bdf8,color:#fff
-    style PRIVATE fill:#064e3b,stroke:#10b981,color:#fff
-    style GROUP fill:#064e3b,stroke:#10b981,color:#fff
-    style VOICE fill:#064e3b,stroke:#10b981,color:#fff
-    style PRESENCE fill:#451a03,stroke:#f97316,color:#fff
-    style MEMORY fill:#0f172a,stroke:#eab308,color:#fff
-    style NOTIFY fill:#0284c7,stroke:#38bdf8,color:#fff
-    style CLEAN fill:#064e3b,stroke:#10b981,color:#fff
-    style EF fill:#0f172a,stroke:#eab308,color:#fff
-```
-
-<br/>
-
-<img src="https://img.shields.io/badge/SIGNALR-REAL_TIME-00ADD8?style=for-the-badge&logo=signalr&logoColor=white"/>
-<img src="https://img.shields.io/badge/PRIVATE_MESSAGING-eab308?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GROUP_ROOMS-8b5cf6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LIVE_PRESENCE-10b981?style=for-the-badge"/>
-
-</td>
 </tr>
 </table>
 
@@ -505,165 +288,286 @@ graph LR
 
 <br/>
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-<br/><br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    04 / TESTING                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-# 🧪 04 / TESTING LAB
+<details>
+<summary><b>⌘ COMPLETE STACK MAP</b></summary>
 
 <br/>
 
+```text
+╔══════════════════════════════════════════════════════════════════╗
+║                         NOUR / STACK                             ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  C#                                                              ║
+║  .NET                                                            ║
+║  ASP.NET Core                                                    ║
+║  Web API                                                         ║
+║  MVC                                                             ║
+║  RESTful APIs                                                    ║
+║                                                                  ║
+║  ──────────────────────────────────────────────────────────────  ║
+║                                                                  ║
+║  Clean Architecture                                              ║
+║  CQRS                                                            ║
+║  MediatR                                                         ║
+║  Repository Pattern                                              ║
+║  SOLID                                                           ║
+║                                                                  ║
+║  ──────────────────────────────────────────────────────────────  ║
+║                                                                  ║
+║  SQL Server                                                      ║
+║  Entity Framework Core                                           ║
+║  LINQ                                                            ║
+║  Database Design                                                 ║
+║                                                                  ║
+║  ──────────────────────────────────────────────────────────────  ║
+║                                                                  ║
+║  ASP.NET Identity                                                ║
+║  JWT                                                             ║
+║  Role-Based Authorization                                        ║
+║  Dynamic Authorization                                            ║
+║  2FA                                                             ║
+║  OTP                                                             ║
+║  OAuth 2.0                                                       ║
+║  Email Verification                                              ║
+║                                                                  ║
+║  ──────────────────────────────────────────────────────────────  ║
+║                                                                  ║
+║  SignalR                                                         ║
+║  Hangfire                                                        ║
+║  MemoryCache                                                      ║
+║  BackgroundService                                                ║
+║  CancellationToken                                                ║
+║  Serilog                                                         ║
+║                                                                  ║
+║  ──────────────────────────────────────────────────────────────  ║
+║                                                                  ║
+║  NUnit                                                           ║
+║  Moq                                                             ║
+║  WebApplicationFactory                                            ║
+║  EF Core InMemory                                                 ║
+║  HttpClient                                                       ║
+║  Swagger                                                          ║
+║  Postman                                                          ║
+║                                                                  ║
+║  ──────────────────────────────────────────────────────────────  ║
+║                                                                  ║
+║  Git · GitHub · Visual Studio                                    ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+</details> <br/> <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+<br/><br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ --> <!-- 03 / FEATURED SYSTEMS --> <!-- ═══════════════════════════════════════════════════════════════ -->
+🚀 03 / FEATURED BACKEND SYSTEMS
+<div align="center"> <table width="100%"> <tr> <td width="50%" valign="top"> <h3>🔐 Authentication Service</h3>
+
+Reusable authentication module focused on secure identity flows and token lifecycle management.
+
+<br/> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Identity-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-111827?style=flat-square&logo=jsonwebtokens&logoColor=EAB308"/> <img src="https://img.shields.io/badge/OTP-111827?style=flat-square&logo=key&logoColor=EAB308"/> <img src="https://img.shields.io/badge/2FA-111827?style=flat-square&logo=authy&logoColor=EAB308"/> <img src="https://img.shields.io/badge/OAuth%202.0-111827?style=flat-square&logo=openid&logoColor=EAB308"/>
+
+<br/><br/>
+
+Register → Email Verification → Login
+JWT → Refresh Tokens → Password
+OTP → 2FA → OAuth 2.0
+
+</td> <td width="50%" valign="top"> <h3>🏨 Hotel Reservation API</h3>
+
+Backend API structured around clean architecture, CQRS, business logic, persistence, and authorization.
+
+<br/> <img src="https://img.shields.io/badge/Clean%20Architecture-111827?style=flat-square&logo=code&logoColor=EAB308"/> <img src="https://img.shields.io/badge/CQRS-111827?style=flat-square&logo=databricks&logoColor=EAB308"/> <img src="https://img.shields.io/badge/MediatR-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+
+<br/><br/>
+
+API → Application → Domain
+Infrastructure → EF Core → SQL Server
+
+</td> </tr> <tr> <td width="50%" valign="top"> <h3>📡 Real-Time Chat</h3>
+
+Real-time communication backend using SignalR with authentication, messaging, rooms, notifications, and presence tracking.
+
+<br/> <img src="https://img.shields.io/badge/SignalR-111827?style=flat-square&logo=signalr&logoColor=EAB308"/> <img src="https://img.shields.io/badge/JWT-111827?style=flat-square&logo=jsonwebtokens&logoColor=EAB308"/> <img src="https://img.shields.io/badge/Clean%20Architecture-111827?style=flat-square&logo=code&logoColor=EAB308"/> <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+
+<br/><br/>
+
+Private Messages · Group Rooms
+Presence · Notifications · Real-Time Events
+
+</td> <td width="50%" valign="top"> <h3>🛒 E-Commerce Backend</h3>
+
+Layered backend project focused on APIs, business logic, persistence, and maintainable service design.
+
+<br/> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+
+<br/><br/>
+
+Products · Orders · Business Logic
+REST APIs · Persistence
+
+</td> </tr> <tr> <td width="50%" valign="top"> <h3>📝 Quiz System</h3>
+
+Layered backend application focused on question-driven workflows and core business logic.
+
+<br/> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> </td> <td width="50%" valign="top"> <h3>🧩 Backend Engineering Focus</h3>
+
+Current direction is centered around building better backend quality through automated testing and performance awareness.
+
+<br/> <img src="https://img.shields.io/badge/Unit%20Testing-25A162?style=flat-square&logo=nunit&logoColor=white"/> <img src="https://img.shields.io/badge/Integration-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/API%20Testing-FF6C37?style=flat-square&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Performance-EAB308?style=flat-square&logo=speedtest&logoColor=111827"/> </td> </tr> </table> </div> <br/> <!-- ═══════════════════════════════════════════════════════════════ --> <!-- 04 / TESTING LAB --> <!-- ═══════════════════════════════════════════════════════════════ -->
+🧪 04 / TESTING LAB
+<div align="center"> <table width="100%"> <tr> <td align="center" width="25%">
+🧩 UNIT
+
+NUnit
+AAA
+Assertions
+Parameterized Tests
+Exception Testing
+
+</td> <td align="center" width="25%">
+🎭 MOCKING
+
+Moq
+Setup
+Verify
+Times
+Dependency Isolation
+
+</td> <td align="center" width="25%">
+🌐 INTEGRATION
+
+WebApplicationFactory
+HttpClient
+Test Server
+Dependency Injection
+EF Core InMemory
+
+</td> <td align="center" width="25%">
+⚡ PERFORMANCE
+
+Latency
+Throughput
+Concurrency
+Load Testing
+Stress Testing
+Benchmarking
+
+</td> </tr> </table> <br/> <img src="https://img.shields.io/badge/UNIT-NUNIT-25A162?style=for-the-badge&logo=nunit&logoColor=white"/> <img src="https://img.shields.io/badge/MOCKING-MOQ-111827?style=for-the-badge&logo=code&logoColor=EAB308"/> <img src="https://img.shields.io/badge/INTEGRATION-WAF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/API-HTTP%20TESTING-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/CURRENTLY-EXPLORING%20PERFORMANCE%20ENGINEERING-EAB308?style=for-the-badge&labelColor=111827"/> </div> <br/> <details> <summary><b>⚙️ TESTING FLOW</b></summary> <br/>
+┌───────────────────────────────┐
+│        UNIT TESTING           │
+│        NUnit + Moq            │
+└───────────────┬───────────────┘
+                │
+                ▼
+┌───────────────────────────────┐
+│      INTEGRATION TESTING      │
+│ WebApplicationFactory + EF    │
+└───────────────┬───────────────┘
+                │
+                ▼
+┌───────────────────────────────┐
+│         API TESTING           │
+│       HttpClient + HTTP       │
+└───────────────┬───────────────┘
+                │
+                ▼
+┌───────────────────────────────┐
+│    PERFORMANCE ENGINEERING    │
+│ Latency + Load + Throughput   │
+└───────────────────────────────┘
+</details> <br/> <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+<br/><br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ --> <!-- 05 / GITHUB TELEMETRY --> <!-- ═══════════════════════════════════════════════════════════════ -->
+📊 05 / GITHUB TELEMETRY
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nour7Tohamy&show_icons=true&theme=tokyonight&hide_border=false&border_color=EAB308&title_color=EAB308&icon_color=EAB308&text_color=FFFFFF&bg_color=0F172A" width="49%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nour7Tohamy&layout=compact&theme=tokyonight&hide_border=false&border_color=EAB308&title_color=EAB308&text_color=FFFFFF&bg_color=0F172A" width="42%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nour7Tohamy&theme=dark&background=0F172A&border=EAB308&stroke=EAB308&ring=EAB308&fire=EAB308&currStreakLabel=EAB308" width="80%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nour7Tohamy&theme=tokyo-night&area=true&hide_border=true&color=EAB308" width="96%"/> </div> <br/> <!-- ═══════════════════════════════════════════════════════════════ --> <!-- 06 / ENGINEERING MINDSET --> <!-- ═══════════════════════════════════════════════════════════════ -->
+🧠 06 / ENGINEERING MINDSET
+<div align="center"> <table width="100%"> <tr> <td align="center">
+BUILD
+
+Clear Code
+Business Logic
+Maintainability
+
+</td> <td align="center">
+TEST
+
+Verify
+Isolate
+Integrate
+
+</td> <td align="center">
+MEASURE
+
+Latency
+Throughput
+Resource Usage
+
+</td> <td align="center">
+IMPROVE
+
+Refactor
+Optimize
+Simplify
+
+</td> </tr> </table> <br/> <img src="https://img.shields.io/badge/DRY-EAB308?style=for-the-badge"/> <img src="https://img.shields.io/badge/KISS-EAB308?style=for-the-badge"/> <img src="https://img.shields.io/badge/YAGNI-EAB308?style=for-the-badge"/> <img src="https://img.shields.io/badge/SOLID-8B5CF6?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/TROUBLESHOOTING-111827?style=for-the-badge&logo=code&logoColor=EAB308"/> <img src="https://img.shields.io/badge/CODE%20REVIEW-111827?style=for-the-badge&logo=github&logoColor=EAB308"/> <img src="https://img.shields.io/badge/TEAM%20COLLABORATION-111827?style=for-the-badge&logo=git&logoColor=EAB308"/> </div> <br/> <!-- ═══════════════════════════════════════════════════════════════ --> <!-- 07 / CURRENT VECTOR --> <!-- ═══════════════════════════════════════════════════════════════ -->
+🛰️ 07 / CURRENT VECTOR
 <div align="center">
-
-<table width="100%">
-<tr>
-
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/test-tube.png" width="55"/>
-
-### UNIT
-NUnit<br/>Moq<br/>Assertions<br/>Parameterized Tests
-</td>
-
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/integration.png" width="55"/>
-
-### INTEGRATION
-WebApplicationFactory<br/>EF Core In-Memory<br/>Dependency Injection<br/>Test Server
-</td>
-
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/api-settings.png" width="55"/>
-
-### API
-HttpClient<br/>HTTP Testing<br/>Swagger<br/>Postman
-</td>
-
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/speed.png" width="55"/>
-
-### PERFORMANCE
-Latency<br/>Throughput<br/>Load Testing<br/>Stress Testing
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<img src="https://img.shields.io/badge/TESTING_IS_PART_OF_ENGINEERING-eab308?style=for-the-badge&labelColor=050505"/>
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-<br/><br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    05 / ANALYTICS                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-# 📊 05 / GITHUB TELEMETRY
-
-<br/>
-
+                 ┌──────────────────────┐
+                 │    .NET BACKEND      │
+                 └──────────┬───────────┘
+                            │
+       ┌────────────────────┼────────────────────┐
+       │                    │                    │
+       ▼                    ▼                    ▼
+    API CORE           SECURITY            ARCHITECTURE
+       │                    │                    │
+       └──────────────┬─────┴────────────────────┘
+                      │
+                      ▼
+               AUTOMATED TESTING
+                      │
+                      ▼
+            PERFORMANCE ENGINEERING
+                      │
+             ┌────────┼────────┐
+             ▼        ▼        ▼
+          LATENCY  THROUGHPUT  LOAD
+<br/> <img src="https://img.shields.io/badge/FOCUS-BACKEND%20ENGINEERING-111827?style=for-the-badge&labelColor=EAB308"/> <img src="https://img.shields.io/badge/STACK-C%23%20%7C%20.NET%20%7C%20ASP.NET%20CORE-512BD4?style=for-the-badge"/> <img src="https://img.shields.io/badge/QUALITY-TESTING-10B981?style=for-the-badge"/> <img src="https://img.shields.io/badge/NEXT-PERFORMANCE-EAB308?style=for-the-badge&labelColor=111827"/> </div> <br/> <!-- ═══════════════════════════════════════════════════════════════ --> <!-- 08 / CONNECT --> <!-- ═══════════════════════════════════════════════════════════════ -->
+📬 08 / CONNECT
 <div align="center">
+NOUR TOHAMY
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nour7Tohamy&theme=dark&background=050505&border=EAB308&stroke=EAB308&ring=EAB308&fire=EAB308&currStreakLabel=EAB308" width="85%"/>
+Backend .NET Developer
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Nour7Tohamy&show_icons=true&theme=tokyonight&hide_border=false&border_color=eab308&count_private=true&title_color=eab308&icon_color=eab308&bg_color=050505" width="85%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nour7Tohamy&theme=tokyo-night&area=true&hide_border=true&color=eab308" width="98%"/>
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+Building secure, maintainable and testable backend systems with C# and ASP.NET Core.
 
 <br/><br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    06 / MINDSET                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-# 🧠 06 / ENGINEERING MINDSET
-
-<br/>
-
-<div align="center">
-
-<table width="100%">
-<tr>
-<td align="center">
-
-<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="70"/>
-
-## BUILD → TEST → MEASURE → IMPROVE
-
-I focus on building backend systems with clear business logic,
-secure APIs, maintainable architecture, reliable data access,
-real-time communication, and automated testing.
-
-<br/>
-
-<img src="https://img.shields.io/badge/CLEAN_CODE-DRY_%7C_KISS_%7C_YAGNI-eab308?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/ARCHITECTURE-SOLID-8b5cf6?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/QUALITY-TESTING-10b981?style=for-the-badge&labelColor=050505"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+<a href="https://github.com/Nour7Tohamy"> <img src="https://img.shields.io/badge/GitHub-05070D?style=for-the-badge&logo=github&logoColor=EAB308"/> </a> <a href="https://www.linkedin.com/in/Nour-Tohamy-a4763a350/"> <img src="https://img.shields.io/badge/LinkedIn-05070D?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/> </a> <a href="mailto:nreda8386@gmail.com"> <img src="https://img.shields.io/badge/nreda8386%40gmail.com-05070D?style=for-the-badge&logo=gmail&logoColor=EA4335"/> </a>
 
 <br/><br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    07 / CONTACT                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-# 📬 07 / CONNECT
-
-<br/>
-
-<div align="center">
-
-## ⚡ NOUR TOHAMY
-**Backend .NET Developer**
-
-Cairo, Egypt
-
-<br/>
-
-<a href="https://github.com/Nour7Tohamy"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=eab308"/></a>
-<a href="https://www.linkedin.com/in/Nour-Tohamy-a4763a350/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:nreda8386@gmail.com"><img src="https://img.shields.io/badge/nreda8386%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CAIRO%20%7C%20EGYPT-0F172A?style=for-the-badge&labelColor=EAB308&color=0F172A"/> </div>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&custom_color_1=050505&custom_color_2=eab308&height=2&section=footer"/>
-
-<br/>
-
-<sub>© NOUR TOHAMY · BACKEND ENGINEERING · .NET · C#</sub>
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=eab308&custom_color_2=050505&height=170&section=footer"/>
+<!-- ═══════════════════════════════════════════════════════════════ --> <!-- FOOTER --> <!-- ═══════════════════════════════════════════════════════════════ --> <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=EAB308&custom_color_2=05070D&height=170&section=footer"/> </div> ```

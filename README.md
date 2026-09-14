@@ -41,17 +41,17 @@ readme = r'''<div align="center">
 
 <div align="center">
 
-<!-- VISUAL METRICS CARDS GRID -->
+<!-- METRICS CARDS GRID (GOLD THEME) -->
 <table width="100%">
   <tr>
     <td width="33%" align="center">
       <img src="https://img.shields.io/badge/P99_API_LATENCY-<5ms_Target_--_7.2ms_Actual-eab308?style=for-the-badge&logo=speedtest&logoColor=black"/>
     </td>
     <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/REDIS_MUTEX_LOCK-Sub--ms_Latency-0284c7?style=for-the-badge&logo=redis&logoColor=white"/>
+      <img src="https://img.shields.io/badge/REDIS_MUTEX_LOCK-Sub--ms_Latency-eab308?style=for-the-badge&logo=redis&logoColor=black"/>
     </td>
     <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/MESSAGE_LOSS-0%25_at_10k_req/s-10b981?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MESSAGE_LOSS-0%25_at_10k_req/s-eab308?style=for-the-badge&logo=rabbitmq&logoColor=black"/>
     </td>
   </tr>
 </table>
@@ -61,11 +61,10 @@ readme = r'''<div align="center">
 <table width="100%">
   <thead>
     <tr style="background: linear-gradient(90deg, #0f172a, #eab308); color: #000;">
-      <th align="left" width="22%">⚡ Subsystem Core</th>
-      <th align="left" width="38%">🛠️ Execution Pipeline Strategy</th>
+      <th align="left" width="25%">⚡ Subsystem Core</th>
+      <th align="left" width="45%">🛠️ Execution Pipeline Strategy</th>
       <th align="center" width="15%">🎯 Target SLA</th>
       <th align="center" width="15%">🔥 Actual (k6 Load)</th>
-      <th align="center" width="10%">Status</th>
     </tr>
   </thead>
   <tbody>
@@ -74,42 +73,36 @@ readme = r'''<div align="center">
       <td>ASP.NET Core Kestrel + Non-blocking I/O + Minimal APIs</td>
       <td align="center"><code>&lt; 5ms P99</code></td>
       <td align="center"><code>7.2ms P99</code></td>
-      <td align="center"><img src="https://geps.dev/progress/95?dangerColor=eab308&warningColor=eab308&color=eab308"/></td>
     </tr>
     <tr>
       <td><b>⚡ Distributed State</b></td>
       <td>Redis L2 Cache + RedLock Distributed Mutex</td>
       <td align="center"><code>Sub-ms</code></td>
       <td align="center"><code>1.1ms (L2 Hit)</code></td>
-      <td align="center"><img src="https://geps.dev/progress/98?dangerColor=0284c7&warningColor=0284c7&color=0284c7"/></td>
     </tr>
     <tr>
       <td><b>🔄 Async Streaming</b></td>
       <td>RabbitMQ Event Bus + Competing Consumers</td>
       <td align="center"><code>0% Loss</code></td>
       <td align="center"><code>0% Loss (10k/s)</code></td>
-      <td align="center"><img src="https://geps.dev/progress/100?dangerColor=10b981&warningColor=10b981&color=10b981"/></td>
     </tr>
     <tr>
       <td><b>🛡️ Resilience Engine</b></td>
       <td>Polly Policies (Circuit Breaker, Fallbacks, Retry)</td>
       <td align="center"><code>99.999% SLA</code></td>
       <td align="center"><code>99.94% Avail</code></td>
-      <td align="center"><img src="https://geps.dev/progress/98?dangerColor=8b5cf6&warningColor=8b5cf6&color=8b5cf6"/></td>
     </tr>
     <tr>
       <td><b>🔐 Identity Core</b></td>
       <td>OAuth 2.0 / JWT + Dynamic Policy-Based AuthZ</td>
       <td align="center"><code>Zero Trust</code></td>
       <td align="center"><code>Strict Isolation</code></td>
-      <td align="center"><img src="https://geps.dev/progress/100?dangerColor=ec4899&warningColor=ec4899&color=ec4899"/></td>
     </tr>
     <tr>
       <td><b>🧪 Integration Test</b></td>
       <td>xUnit + WebApplicationFactory + k6 Benchmarks</td>
       <td align="center"><code>100% CI/CD</code></td>
       <td align="center"><code>96% Coverage</code></td>
-      <td align="center"><img src="https://geps.dev/progress/96?dangerColor=f59e0b&warningColor=f59e0b&color=f59e0b"/></td>
     </tr>
   </tbody>
 </table>
@@ -123,11 +116,16 @@ readme = r'''<div align="center">
 
 <br/><br/>
 
-## 🛠️ 02 / TECH STACK & VISUAL ARCHITECTURE MATRIX
+## 🛠️ 02 / TECH STACK & ARCHITECTURE METRICS
 
 <br/>
 
 <div align="center">
+
+<!-- TECH METRICS STAT CARD -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nour7Tohamy&layout=compact&theme=tokyo-night&hide_border=true&title_color=eab308&text_color=ffffff&bg_color=0f172a" width="60%" alt="Tech Languages Matrix Card"/>
+
+<br/><br/>
 
 ### 🏗️ Core Engineering Stack
 <p>
@@ -165,33 +163,24 @@ readme = r'''<div align="center">
 
 <br/><br/>
 
-## 📊 03 / LIVE GitHub ANALYTICS & VISUAL CODE DASHBOARD
+## 📊 03 / LIVE GitHub ANALYTICS & CODE INSIGHTS
 
 <br/>
 
 <div align="center">
 
-<!-- MAIN ANIMATED ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nour7Tohamy&theme=tokyo-night&area=true&hide_border=true&color=eab308" width="98%" alt="Live Activity Graph"/>
+<!-- STREAK CARD EXACT MATCH FROM IMAGE -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nour7Tohamy&theme=dark&background=0F172A&border=EAB308&stroke=EAB308&ring=EAB308&fire=EAB308&currStreakLabel=EAB308&hide_border=false" width="85%" alt="Streak Card Matrix"/>
 
 <br/><br/>
 
-<!-- TWO COLUMN STATS DASHBOARD -->
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Nour7Tohamy&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true&title_color=eab308&icon_color=eab308" width="100%"/>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nour7Tohamy&layout=compact&theme=tokyo-night&hide_border=true&title_color=eab308" width="100%"/>
-    </td>
-  </tr>
-</table>
+<!-- GITHUB OVERALL PROFILE STATS CARD -->
+<img src="https://github-readme-stats.vercel.app/api?username=Nour7Tohamy&show_icons=true&theme=tokyo-night&hide_border=false&border_color=eab308&count_private=true&title_color=eab308&icon_color=eab308" width="85%" alt="GitHub Profile Metrics Card"/>
 
-<br/>
+<br/><br/>
 
-<!-- STREAK STATS GRAPH -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nour7Tohamy&theme=tokyo-night&hide_border=true&ring=eab308&fire=eab308&currStreakLabel=eab308" width="98%"/>
+<!-- ANIMATED ACTIVITY GRAPH CARDS -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nour7Tohamy&theme=tokyo-night&area=true&hide_border=true&color=eab308" width="98%" alt="Live Activity Graph"/>
 
 </div>
 
@@ -225,4 +214,4 @@ flowchart LR
     style D fill:#0f172a,stroke:#0284c7,stroke-width:2px,color:#fff
     style E fill:#450a0a,stroke:#ef4444,stroke-width:2px,color:#fff
     style F fill:#0f172a,stroke:#10b981,stroke-width:2px,color:#fff
-    style G fill:#0f172a,stroke:#eab308,stroke-width:2px,color:#fff
+    style G fill:#0f172a,stroke:#eab308,stroke-width:2px
